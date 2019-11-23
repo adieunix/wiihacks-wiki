@@ -1,7 +1,7 @@
 ----
 ## Answers before they are asked...
 
-### https://wii.guide/
+### [wii.guide](https://wii.guide/)
 
 * This is the current approved guide for modding your Wii.
 
@@ -16,8 +16,6 @@
 ----
 
 ## Questions...
-
-----
 
 ### My games aren't loading! Why?
 

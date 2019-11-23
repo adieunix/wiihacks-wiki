@@ -3,5 +3,5 @@ This is a section with some tutorials that have been brought together in to a si
 
 If these are marked as being "_Work in Progress_" then take them with a grain of salt, as they are still bring written and/or worked on.
 
-* [emuNAND](/r/WiiHacks/wiki/tutorials/emunand) - _Work in Progress_
-* [Nintendont](/r/WiiHacks/wiki/tutorials/nintendont) - _Work in Progress_
+* [emuNAND](./emunand.md) - _Work in Progress_
+* [Nintendont](./nintendont.md) - _Work in Progress_
