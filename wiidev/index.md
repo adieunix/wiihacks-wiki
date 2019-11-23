@@ -4,7 +4,7 @@ Here we've tried to compile enough information to allow anyone to get started wi
 
 ## Getting Started
 
-Here on the [Getting Started](/r/WiiHacks/wiki/wiidev/gettingstarted) page you will learn the basics on setting up a development environment, and what you either should know, or what you'll be up against learning if you decide to make your own homebrew application.
+Here on the [Getting Started](./setup.md) page you will learn the basics on setting up a development environment, and what you either should know, or what you'll be up against learning if you decide to make your own homebrew application.
 
 ## Usefull Links
 
