@@ -1,7 +1,7 @@
 ---
 title: Wiki -> WiiDev
 description: Development for the Wii
-redirect_from: "/wiidev/index.md"
+redirect_from: "/wiidev/wiidev.md"
 ---
 
 # Welcome to r/WiiHack's HomeBrew Development Corner!

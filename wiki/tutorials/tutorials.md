@@ -1,7 +1,7 @@
 ---
 title: Wiki -> Tutorials
 description: Here are various tutorials written by our community.
-redirect_from: "/tutorials/index.md"
+redirect_from: "/tutorials/tutorials.md"
 ---
 
 # Tutorials
