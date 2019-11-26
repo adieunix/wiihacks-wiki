@@ -18,7 +18,7 @@ The Mods nor anyone who posts in /r/WiiHacks are responsible for your Wii. Do th
 
    This section contains the rules to the forum.
 
-2. [Tutorials](./tutorials/) 
+2. [Tutorials](./tutorials/tutorials.md) 
     
    Tutorials for different tasks.
 
@@ -26,7 +26,7 @@ The Mods nor anyone who posts in /r/WiiHacks are responsible for your Wii. Do th
  
    Get started here. Questions Answerd.
 
-4. [WiiDev](./wiidev/) 
+4. [WiiDev](./wiidev/wiidev.md) 
    
    Development on the Wii.
 
