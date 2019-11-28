@@ -4,7 +4,7 @@ description: The rules of r/WiiHacks
 redirect_from: "/rules.md"
 ---
 
-# Rules for r/WiiHacks
+# Rules for r/WiiHacks Users
 
 Any rule violation can result in your post being removed, or you being banned depending on the context of the violation. Continually violating a rule will get you banned. If you have questions regarding the rules or bans, please feel free to message the moderators.
 
@@ -38,4 +38,4 @@ We know that accounts are anonymous. We expect people to circumvent bans by crea
 
 You will also be reported to reddit for violating their [Site-Wide Rules](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/what-ban-evasion).
 
-# [Rules for Moderators](./rules_mod.md)
+# [Rules for r/WiiHacks Moderators](./rules_mod.md)
