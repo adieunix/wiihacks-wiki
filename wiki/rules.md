@@ -38,5 +38,5 @@ We know that accounts are anonymous. We expect people to circumvent bans by crea
 
 You will also be reported to reddit for violating their [Site-Wide Rules](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/what-ban-evasion).
 
-## [Rules for Moderators](./rules_mod.md)
+# [Rules for Moderators](./rules_mod.md)
 
