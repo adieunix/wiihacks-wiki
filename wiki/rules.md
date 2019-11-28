@@ -37,3 +37,6 @@ All spambots will be banned permanently.
 We know that accounts are anonymous. We expect people to circumvent bans by creating new accounts. We will ban the new account if a) it violates a rule that warrants it, and b) we discover you're circumventing the ban.
 
 You will also be reported to reddit for violating their [Site-Wide Rules](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/what-ban-evasion).
+
+## [Rules for Moderators](./rules_mod.md)
+
