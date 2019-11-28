@@ -28,7 +28,7 @@ Please limit your posts and responses to modding your Wii. Posts and comments th
 
 Havens for piracy are often targeted by certain console/game manufacturers. Being known as one puts the community at risk. If you see a link or discussion regarding piracy, please report it.
 
-## Bans and Circumventing Bans
+# Bans and Circumventing Bans
 
 Bans will be determined by the type and magnitude of violation and whether or not its a repeated occurance.
 
@@ -39,4 +39,3 @@ We know that accounts are anonymous. We expect people to circumvent bans by crea
 You will also be reported to reddit for violating their [Site-Wide Rules](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/what-ban-evasion).
 
 # [Rules for Moderators](./rules_mod.md)
-
