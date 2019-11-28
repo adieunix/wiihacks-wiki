@@ -8,7 +8,7 @@ Moderator rules are fully public and can be viewed by any user of r/WiiHacks. If
 
 # Top Active Moderator
 
-The current top active moderator is /u/BloodyThorn.
+The current top active moderator is [/u/BloodyThorn](https://www.reddit.com/user/BloodyThorn).
 
 If there is anything that needs immediate attention, please direct requests towards them. If this changes the moderators and community will be notified.
 
