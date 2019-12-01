@@ -24,7 +24,7 @@ Any rule violation can result in your post being removed, or you being banned de
 
    Havens for piracy are often targeted by certain console/game manufacturers. Being known as one puts the community at risk. If you see a link or discussion regarding piracy, please report it.
 
-## 4. No Low-Effort Help Requests
+4. No Low-Effort Help Requests
 
 Since r/WiiHacks is constantly being bombarded with help requests, we ask that you have enough courtesy to provide everyone with the information that is required to help you fix your issue.
 
