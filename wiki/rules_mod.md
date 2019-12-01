@@ -40,7 +40,7 @@ We appreciate your help with /r/WiiHacks. The moderator position is voluntary, b
 
    Moderators that are unresponsive in a reasonable amount of time to direct requests run the risk of being removed as dead-weight. It would be much safer to add you back later if it is a mistake, than run the risk of a dead account sitting with moderator access to the forum.
 
-  If you plan on leaving for a prolonged duration, just make sure the active top mod knows.
+   If you plan on leaving for a prolonged duration, just make sure the active top mod knows.
 
 # Moderation Queues and Desirable States
 
