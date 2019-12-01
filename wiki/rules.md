@@ -26,25 +26,25 @@ Any rule violation can result in your post being removed, or you being banned de
 
 4. No Low-Effort Help Requests
 
-Since r/WiiHacks is constantly being bombarded with help requests, we ask that you have enough courtesy to provide everyone with the information that is required to help you fix your issue.
+   Since r/WiiHacks is constantly being bombarded with help requests, we ask that you have enough courtesy to provide everyone with the information that is required to help you fix your issue.
 
-Until a template is made, this will be judged on a post-by-post basis depending on the issue and what information is given. Posts that have the timber of "I have a problem, help me fix it!" and give nothing else will be removed.
+   Until a template is made, this will be judged on a post-by-post basis depending on the issue and what information is given. Posts that have the timber of "I have a problem, help me fix it!" and give nothing else will be removed.
 
-When you request help please try to post as much information regarding the issue as possible, and as neatly as possible. Normal rules of etiquette apply.
+   When you request help please try to post as much information regarding the issue as possible, and as neatly as possible. Normal rules of etiquette apply.
 
-Lastly, please try to make the title of your post intuitive, brief, but as descriptive as possible. Try to include key software, and a clear description of the issue.
+   Lastly, please try to make the title of your post intuitive, brief, but as descriptive as possible. Try to include key software, and a clear description of the issue.
 
-Your post will qualify as low effort if:
+   Your post will qualify as low effort if:
 
-* your post is in all caps or a wall of text.
-* your title has nothing to actually do with your issue. Just that you have one.
-* there's no information in it and you have to be asked everything.
-* someone makes a suggestion, and you reply that you've already done it and you hadn't mentioned it until then.
-* we have information in the wiki regarding your specific problem and you haven't gone through them yet.
-* searching google/ddg or even in the subreddit can locate a solution that you haven't tried.
-* your main issue is you want someone to do something for you.
+   * your post is in all caps or a wall of text.
+   * your title has nothing to actually do with your issue. Just that you have one.
+   * there's no information in it and you have to be asked everything.
+   * someone makes a suggestion, and you reply that you've already done it and you hadn't mentioned it until then.
+   * we have information in the wiki regarding your specific problem and you haven't gone through them yet.
+   * searching google/ddg or even in the subreddit can locate a solution that you haven't tried.
+   * your main issue is you want someone to do something for you.
 
-This list is not exhaustive, but meant to give you examples of what will be removed. Keep missing the mark after being given a warning and you'll be given a ban.
+   This list is not exhaustive, but meant to give you examples of what will be removed. Keep missing the mark after being given a warning and you'll be given a ban.
 
 # Bans and Circumventing Bans
 
