@@ -62,7 +62,7 @@ redirect_from: "/faq.md"
 
   * If you can; updating the Wii might remove *most* of the modified software. Been wanting to make that jump from 4.1 to 4.3? Now's your chance. Just fair warning, this has the potential to brick your Wii.
 
-  * If you were lucky enough to not be able to use an upgrade, you'll want to download all of the stock IOS and replace them all. Of course you'll still need your homebrew to do this with... The suggested tool would be the NUS Downloader.
+  * If you were lucky enough to not be able to use an upgrade, you'll want to download all of the stock IOS and replace them all of the modified ones with originals. Of course you'll still need your homebrew to do this with... The suggested tool would be the NUS Downloader.
 
   * Seriously, there's no good reason to un-mod a Wii. You probably won't get more thorough help than this in doing so because no one does.
 
