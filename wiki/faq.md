@@ -99,6 +99,8 @@ redirect_from: "/faq.md"
   * Are your images wbfs or iso? If they have the extension '.nkit' they will not work. Get a different image or learn to convert that one.
   
   * Last things to try are 'replacements'. Try a new game image, a different USB device, or SD card if possible. Yours might not be compatible, or sometimes not even good.
+  
+  * This information and more can be found in a user posted troubleshooting guide [here](https://www.reddit.com/r/WiiHacks/comments/dnfb81/usb_loader_gx_troubleshooting_guide/).
 
 ----
 
