@@ -22,7 +22,7 @@ The Mods nor anyone who posts in /r/WiiHacks are responsible for your Wii. Do th
     
    Tutorials for different tasks.
 
-3. [Modding F.A.Q.'s](./faq.md)
+3. [F.A.Q.](./faq.md)
  
    Get started here. Questions Answerd.
 
