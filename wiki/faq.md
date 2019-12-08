@@ -65,6 +65,14 @@ redirect_from: "/faq.md"
   * If you were lucky enough to not be able to use an upgrade, you'll want to download all of the stock IOS and replace them all of the modified ones with originals. Of course you'll still need your homebrew to do this with... The suggested tool would be the NUS Downloader.
 
   * Seriously, there's no good reason to un-mod a Wii. You probably won't get more thorough help than this in doing so because no one does.
+  
+### I want to change a different SD Card / USB Device, can I just copy everything over?
+
+  * Yes. You can use normal filecopy operations of your OS to move files from one location to the other, with no issue.
+  
+### Is there a way to transfer all the stuff on my Wii itself?
+
+  * No. All stuff installed to the actual Wii memory will need to be re-installed.
 
 ----
 
