@@ -1,12 +1,36 @@
 ---
 title: Wiki -> F.A.Q.
 description: A wiki maintained by the r/WiiHacks community.
-redirect_from: "/faq.md"
+redirect_from: "/faqs/faqs.md"
 ---
 
-----
+## Regarding the subreddit.
 
-## Modding
+### My post keeps getting flagged for Rule #4, why?
+
+  There are two types of posts that get flagged for Rule #4. Help requests or questions that are regularly asked are removed, as well as ones that ask vague questions and/or provide vague information.
+
+  People are less likely to respond to a help request if the first thing they need to do is ask you to provide the proper information.
+
+### How can I get my post to not get removed by Rule #4?
+
+  Always research the issue in the forum before you post. 98% of all questions asked are asked and answered regularly. If your post was removed because of this, you really didn't need to post to begin with.
+
+  Provide enough information for the person to troubleshoot your issue;
+
+  * Your post should have a title that briefly, but accurately describes the issue.
+  
+  * In the body, included should be a full description of the issue.
+  
+  * Include your hardware setup. What Wii are you using? The model and size of SD and USB device is often relevant, include it too. Do you have an original Wiimote, or a motion plus?
+  
+  * Include your software setup. A syscheck is almost always helpful. Paste the results into a pastebin and include it in your body. Like [this](https://pastebin.com/RBJPc15y).
+  
+  * Include everything you've done up until that point including links to tutorials you've followed and try to describe the results as best as you can.
+  
+  * The more information you provide, the less chance of the post getting removed as well as the more chance you have of getting someone to help you resolve your issue.
+
+## Modding.
 
    These questions contain information regarding the modding process and the hardware involved.
 
@@ -72,7 +96,7 @@ redirect_from: "/faq.md"
   
 ### Is there a way to transfer all the stuff on my Wii itself?
 
-  * No. All stuff installed to the actual Wii memory will need to be re-installed.
+  * No. All software installed to the actual Wii memory will need to be re-installed.
 
 ----
 

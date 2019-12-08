@@ -12,19 +12,21 @@ The Mods nor anyone who posts in /r/WiiHacks are responsible for your Wii. Do th
 
 ** Be CAREFUL with the links you click on posted by other users **
 
+** Please read both the Rules and F.A.Q. before posting to the forum. **
+
 ----
 
 1. [Rules](./rules.md)
 
    This section contains the rules to the forum.
 
-2. [Tutorials](./tutorials/tutorials.md) 
+2. [F.A.Q.](./faqs/faqs.md)
+ 
+   Frequently asked questions and posting advice.
+
+3. [Tutorials](./tutorials/tutorials.md) 
     
    Tutorials for different tasks.
-
-3. [F.A.Q.](./faq.md)
- 
-   Get started here. Questions Answerd.
 
 4. [WiiDev](./wiidev/wiidev.md) 
    
