@@ -8,30 +8,34 @@ redirect_from: "/"
 
 ### Warnings & Disclaimer
 
-The Mods nor anyone who posts in /r/WiiHacks are responsible for your Wii. Do the research yourself and know the risks involved.
+  The Mods nor anyone who posts in /r/WiiHacks are responsible for your Wii. Do the research yourself and know the risks involved.
 
-** Be CAREFUL with the links you click on posted by other users **
+  ** Be CAREFUL with the links you click on posted by other users **
 
-** Please read both the Rules and F.A.Q. before posting to the forum. **
+  ** Please read both the Rules and F.A.Q. before posting to the forum. **
 
 ----
 
-1. [Rules](./rules.md)
+1. [Rules](./rules/rules.md)
 
    This section contains the rules to the forum.
 
-2. [F.A.Q.](./faqs/faqs.md)
+2. [Posting Guidelines](./rules/posting.md)
+
+   General guidelines for posting on the subreddit.
+
+3. [F.A.Q.s](./faqs/faqs.md)
  
    Frequently asked questions and posting advice.
 
-3. [Tutorials](./tutorials/tutorials.md) 
+4. [Tutorials](./tutorials/tutorials.md) 
     
    Tutorials for different tasks.
 
-4. [WiiDev](./wiidev/wiidev.md) 
+5. [WiiDev](./wiidev/wiidev.md) 
    
    Development on the Wii.
 
-5. [Useful Links](./links.md)
+6. [Useful Links](./links.md)
    
    Extra links.

@@ -1,12 +1,14 @@
 ---
 title: Wiki -> Rules
 description: The rules of r/WiiHacks
-redirect_from: "/rules.md"
+redirect_from: "/rules/rules.md"
 ---
 
 # Rules for r/WiiHacks Users
 
-Any rule violation can result in your post being removed, or you being banned depending on the context of the violation. Continually violating a rule will get you banned. If you have questions regarding the rules or bans, please feel free to message the moderators via modmail.
+  Any rule violation can result in your post being removed, or you being banned depending on the context of the violation. Continually violating a rule will get you banned. If you have questions regarding the rules or bans, please feel free to message the moderators via modmail.
+
+  Posting Guidelines can be found [here](./posting.md).
 
 1. Be Civil
 
@@ -28,7 +30,7 @@ Any rule violation can result in your post being removed, or you being banned de
 
    Since r/WiiHacks is constantly being bombarded with help requests, we ask that you have enough courtesy to provide everyone with the information that is required to help you fix your issue.
 
-   Until a template is made, this will be judged on a post-by-post basis depending on the issue and what information is given. Posts that have the timber of "I have a problem, help me fix it!" and give nothing else will be removed.
+   This will be judged on a post-by-post basis depending on the issue and what information is given. Posts that have the timber of "I have a problem, help me fix it!" and give nothing else will be removed.
 
    When you request help please try to post as much information regarding the issue as possible, and as neatly as possible. Normal rules of etiquette apply.
 
@@ -48,12 +50,12 @@ Any rule violation can result in your post being removed, or you being banned de
 
 # Bans and Circumventing Bans
 
-Bans will be determined by the type and magnitude of violation and whether or not its a repeated occurance.
+  Bans will be determined by the type and magnitude of violation and whether or not its a repeated occurance.
 
-All spambots will be banned permanently.
+  All spambots will be banned permanently.
 
-We know that accounts are anonymous. We expect people to circumvent bans by creating new accounts. We will ban the new account if a) it violates a rule that warrants it, and b) we discover you're circumventing the ban.
+  We know that accounts are anonymous. We expect people to circumvent bans by creating new accounts. We will ban the new account if a) it violates a rule that warrants it, and b) we discover you're circumventing the ban.
 
-You will also be reported to reddit for violating their [Site-Wide Rules](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/what-ban-evasion).
+  You will also be reported to reddit for violating their [Site-Wide Rules](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/what-ban-evasion).
 
 # [Rules for r/WiiHacks Moderators](./rules_mod.md)
