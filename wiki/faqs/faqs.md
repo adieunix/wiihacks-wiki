@@ -24,7 +24,7 @@ redirect_from: "/faqs/faqs.md"
   
   * Include your hardware setup. What Wii are you using? The model and size of SD and USB device is often relevant, include it too. Do you have an original Wiimote, or a motion plus?
   
-  * Include your software setup. A syscheck is almost always helpful. Paste the results into a pastebin and include it in your body. Like [this](https://pastebin.com/RBJPc15y).
+  * Include your software setup. A syscheck is almost always helpful. Paste the results into a pastebin and include it in your body. Like [this](https://pastebin.com/agpxtvXz).
   
   * Include everything you've done up until that point including links to tutorials you've followed and try to describe the results as best as you can.
   
