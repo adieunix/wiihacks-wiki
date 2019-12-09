@@ -6,7 +6,7 @@ redirect_from: "/rules.md"
 
 # Rules for r/WiiHacks Users
 
-Any rule violation can result in your post being removed, or you being banned depending on the context of the violation. Continually violating a rule will get you banned. If you have questions regarding the rules or bans, please feel free to message the moderators.
+Any rule violation can result in your post being removed, or you being banned depending on the context of the violation. Continually violating a rule will get you banned. If you have questions regarding the rules or bans, please feel free to message the moderators via modmail.
 
 1. Be Civil
 
