@@ -6,7 +6,7 @@ redirect_from: "/rules/posting.md"
 
 # Posting Guidelines.
 
-  The [wiki entry](https://{{ site.data.const.url }}/rules/posting), and the stickied post are to remain in sync with this document.
+  The [wiki entry](https://{{ site.data.const.url }}/posting), and the stickied post are to remain in sync with this document.
 
 ----
 
