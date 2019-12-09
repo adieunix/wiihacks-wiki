@@ -6,13 +6,13 @@ redirect_from: "/rules/posting.md"
 
 # Posting Guidelines.
 
-  The [wiki entry](https://{{ site.data.const.url }}/posting), and the stickied post are to remain in sync with this document.
+  The [wiki entry](https://www.wiihacks.org/posting), and the stickied post are to remain in sync with this document.
 
 ----
 
 ## Rules.
 
-   * Please read [the subreddit's rules](https://{{ site.data.const.url }}/rules) before posting or replying.
+   * Please read [the subreddit's rules](https://www.wiihacks.org/rules) before posting or replying.
 
 ## NO PIRACY.
 
@@ -26,7 +26,7 @@ redirect_from: "/rules/posting.md"
 
      [The Recommended Guide](https://wii.guide/).
    
-     [The WiiHacks Wiki F.A.Q.](https://{{ site.data.const.url }}/faqs)
+     [The WiiHacks Wiki F.A.Q.](https://www.wiihacks.org/faqs)
 
    * If you're posting a request for help please be helpful in your request and provide as much information as you can. Even if you have already, go back and re-read rule #4 if you plan to ask for help.
 
