@@ -34,6 +34,10 @@ redirect_from: "/rules/posting.md"
 
    * If you post a help request or question, try to update it with the solution if one is found.
 
+### Posting a Syscheck
+
+   * If the issue or question you have is regarding your setup, then posting a [syscheck](http://www.hacksden.com/downloads.php?do=file&id=149) to [pastebin](https://pastebin.com) like [this](https://pastebin.com/agpxtvXz) will help greatly.
+
 ## Post Not Showing up?
 
    * If you post something that doesn't show up, be patient. Questionable links need to be approved as well as everything new accounts posts. If you've waited what you consider a reasonable amount of time, send a message to modmail.
