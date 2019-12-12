@@ -61,3 +61,5 @@ The information you've requested is almost certainly covered in;
 * [Our F.A.Q.](http://www.wiihacks.org/faqs)
 * [The Supported Modding Guide](https://wii.guide/)
 * Searching the Subreddit
+
+Please make sure you are reading [the rules](https://www.wiihacks.org/rules), as well as the [pinned post](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/) before you post or reply in this subreddit.
