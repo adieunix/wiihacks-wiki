@@ -51,3 +51,13 @@ You can consult our [Wiki](https://www.wiihacks.org/faqs#usb-loader-gx) with a c
 You can access the previous posts with a [reddit search](https://www.reddit.com/r/WiiHacks/search/?q=USB%20Loader%20GX%20showing&restrict_sr=1&sort=new).
 
 Finally, if you are still unable to find a solution, feel free to create a new post. Please include how you got to your situation, the equipment and software involved, and the steps you have tried to take to resolve it found in the Wiki, previous posts, and anything else.
+
+# Rule #4 -> This question has been asked before.
+
+Removed for rule #4 to cut down on regularly repeated questions/issues.
+
+The information you've requested is almost certainly covered in;
+
+* [Our F.A.Q.](http://www.wiihacks.org/faqs)
+* [The Supported Modding Guide](https://wii.guide/)
+* Searching the Subreddit
