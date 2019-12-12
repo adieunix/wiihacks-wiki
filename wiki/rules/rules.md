@@ -30,7 +30,7 @@ redirect_from: "/rules/rules.md"
 
    Since r/WiiHacks is constantly being bombarded with help requests, we ask that you have enough courtesy to provide everyone with the information that is required to help you fix your issue.
 
-   Please don't post questions not directly related to modifying your Wii. We're not responsible for teaching you how to use your computer or the applications needed to run it. Please don't insult us by asking.
+   Please don't post questions not directly related to modifying your Wii. There are plenty of resources accessable through [DDG](https://duckduckgo.com/) or [Google](https://www.google.com/) to learn how to do anything on your computer. Questions of this sort will be removed when seen by a moderator.
 
    This will be judged on a post-by-post basis depending on the issue and what information is given. Posts that have the timber of "I have a problem, help me fix it!" and give nothing else will be removed.
 
