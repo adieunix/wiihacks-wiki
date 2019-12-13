@@ -20,7 +20,7 @@ permalink: /blog/posts/:year/:month/:day/:title:output_ext
 show_downloads: true
 service: "github" # (string) specify git-wiki host. (github or gitlab)
 git_branch: "master" # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
-logo_url: ./assets/images/logo.png # (string) Url of logo image, it can be full, absolute or relative.
+logo_url: /assets/images/logo.png # (string) Url of logo image, it can be full, absolute or relative.
 google_analytics: UA-154424587-2 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 wiki_folder: wiki # (string) folder where wiki pages are stored, it's needed for tool buttons
 # (boolean) if you're using github wiki as submodule then this config
