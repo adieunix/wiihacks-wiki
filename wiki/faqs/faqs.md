@@ -134,6 +134,14 @@ redirect_from: "/faqs/faqs.md"
   
   * This information and more can be found in a user posted troubleshooting guide [here](https://www.reddit.com/r/WiiHacks/comments/dnfb81/usb_loader_gx_troubleshooting_guide/).
 
+### Ripping games using USB Loader GX isn't working.
+
+  * USB Loader GX has a habit of stopping in the middle of a rip and never completing, if it works at all.
+
+  * After this issue appearing in the subreddit numerous time, the general public consensus is to not use it to rip games. It doesn't do it reliably, or accurately.
+  
+  * Use [CleanRip](https://github.com/emukidid/cleanrip) instead. It's more recently maintained and works much better.
+
 ----
 
 ## Miscellaneous

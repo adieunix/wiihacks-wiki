@@ -1,33 +1,28 @@
-# (string) Title of your wiki
 title: WiiHacks Wiki
-# (string) Description of your wiki
 description: The official Wiki from r/WiiHacks for all your Wii modding needs.
-# (boolean) Enable/disable wiki page list in sidebar
+
+# (boolean) wiki page list in sidebar
 show_wiki_pages: true
-# (integer) Maximum number of wiki page to shown in sidebar
-show_wiki_pages_limit: 10
+show_wiki_pages_limit: 5
+
 # (boolean) Enable/disable blog feature
 blog_feature: false
-# (boolean) Enable/disable wiki posts list in sidebar (needs blog_feature enabled)
+
+# (boolean) Enable/disable wiki posts list in sidebar
 show_wiki_posts: true
-# (integer) Maximum number of wiki posts to shown in sidebar
-show_wiki_posts_limit: 10
-# from jekyll (read jekyll doc)
-paginate: 5
+show_wiki_posts_limit: 5
+
+paginate: 5 # from jekyll (read jekyll doc)
 paginate_path: "/blog/page:num"
 permalink: /blog/posts/:year/:month/:day/:title:output_ext
+
 # (boolean) Enable/disable download buttons in sidebar
 show_downloads: true
-# (string) specify git-wiki host. (github or gitlab)
-service: "github"
-# (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
-git_branch: "master"
-# (string) Url of logo image, it can be full, absolute or relative.
-logo_url: ./assets/images/logo.png
-# (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
-google_analytics:
-# (string) folder where wiki pages are stored, it's needed for tool buttons
-wiki_folder: wiki
+service: "github" # (string) specify git-wiki host. (github or gitlab)
+git_branch: "master" # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
+logo_url: ./assets/images/logo.png # (string) Url of logo image, it can be full, absolute or relative.
+google_analytics: UA-154424587-2 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
+wiki_folder: wiki # (string) folder where wiki pages are stored, it's needed for tool buttons
 # (boolean) if you're using github wiki as submodule then this config
 # must be enabled to allow tool buttons to work properly
 use_github_wiki: false
