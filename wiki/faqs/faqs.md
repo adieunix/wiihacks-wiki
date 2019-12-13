@@ -68,7 +68,7 @@ redirect_from: "/faqs/faqs.md"
 
 ### Will this HD/SD/ThumbDrive work?
 
-  * Wii compatibility is sporadic, but ones that outright don't work rarely than most people think. I'd suggest checking the [compatibility lists](https://wiihacks.bloodythorn.com/links#storage-compatibility-lists) and if you plan on buying one, make sure the cost is negligible, or the place has a liberal return policy.
+  * Wii compatibility is sporadic, but ones that outright don't work rarely than most people think. I'd suggest checking the [compatibility lists](https://www.wiihacks.org/links#storage-compatibility-lists) and if you plan on buying one, make sure the cost is negligible, or the place has a liberal return policy.
 
 ### How do I know the current mod/cios state of my Wii?
 
@@ -150,7 +150,7 @@ redirect_from: "/faqs/faqs.md"
 
 ### What Modded Wii Games can I play?
 
-  * Check out our [useful links](https://wiihacks.bloodythorn.com/links) page.
+  * Check out our [useful links](https://www.wiihacks.org/links) page.
 
 ----
 
