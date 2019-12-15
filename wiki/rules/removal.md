@@ -40,11 +40,11 @@ Instructions on how to find rights-protected intellectual property, ie pirated g
 
 Please make sure you are reading [the rules](https://www.wiihacks.org/rules), as well as the [pinned post](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/) before you post or reply in this subreddit.
 
-# Rule #4 -> USB Loader GX
+# Rule #4 -> USB Loader GX / Nitendont
 
 Removed for rule #4 to cut down on regularly repeated questions/issues.
 
-USB Loader GX issues are the most commonly posted help request currently. Meaning that (*nearly) every issue you can have with it has already been answered in a previous post.
+USB Loader GX / Nitendont issues are the most commonly posted help request currently. Meaning that (*nearly) every issue you can have with it has already been answered in a previous post.
 
 You can consult our [Wiki](https://www.wiihacks.org/faqs#usb-loader-gx) with a checklist and most common causes.
 
