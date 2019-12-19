@@ -63,3 +63,9 @@ The information you've requested is almost certainly covered in;
 * Searching the Subreddit
 
 Please make sure you are reading [the rules](https://www.wiihacks.org/rules), as well as the [pinned post](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/) before you post or reply in this subreddit.
+
+# Rule #4 -> This question is covered in our F.A.Q.
+
+[F.A.Q. Entry](<FAQ_URL_HERE>).
+
+Please make sure you are reading [the rules](https://www.wiihacks.org/rules), as well as the [pinned post](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/) before you post or reply in this subreddit.
