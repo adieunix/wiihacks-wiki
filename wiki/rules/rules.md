@@ -26,15 +26,15 @@ redirect_from: "/rules/rules.md"
 
    Havens for piracy are often targeted by certain console/game manufacturers. Being known as one puts the community at risk. If you see a link or discussion regarding piracy, please report it.
 
-4. No Low-Effort Help Requests
+4. No Low-Effort Posts
 
-   Since r/WiiHacks is constantly being bombarded with help requests, we ask that you have enough courtesy to provide everyone with the information that is required to help you fix your issue.
+   Since r/WiiHacks is constantly being bombarded with help requests and questions, we ask that you have enough courtesy to provide everyone with the information that is required to help you fix your issue.
 
    Please don't post questions not directly related to modifying your Wii. There are plenty of resources accessable through [DDG](https://duckduckgo.com/) or [Google](https://www.google.com/) to learn how to do anything on your computer. Questions of this sort will be removed when seen by a moderator.
 
    This will be judged on a post-by-post basis depending on the issue and what information is given. Posts that have the timber of "I have a problem, help me fix it!" and give nothing else will be removed.
 
-   When you request help please try to post as much information regarding the issue as possible, and as neatly as possible. Normal rules of etiquette apply.
+   When you request help please try to post as much information regarding the issue as possible, and as neatly as possible. Normal rules of etiquette apply. Questions that display no effort to learn the answer on your own will be removed.
 
    Lastly, please try to make the title of your post intuitive, brief, but as descriptive as possible. Try to include key software, and a clear description of the issue.
 
@@ -47,6 +47,7 @@ redirect_from: "/rules/rules.md"
    * we have information in the wiki regarding your specific problem and you haven't gone through them yet.
    * searching google/ddg or even in the subreddit can locate a solution that you haven't tried.
    * your main issue is you want someone to do something for you.
+   * your question is covered in our F.A.Q. or recommended guide.
 
    This list is not exhaustive, but meant to give you examples of what will be removed. Keep missing the mark after being given a warning and you'll be given a ban.
 
