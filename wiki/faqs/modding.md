@@ -62,7 +62,7 @@ redirect_from: "/faqs/modding.md"
 
   * If you were lucky enough to not be able to use an upgrade, you'll want to download all of the stock IOS and replace all of the modified ones with originals. Of course you'll still need your homebrew to do this with... The suggested tool would be the NUS Downloader.
 
-  * Seriously, there's no good reason to un-mod a Wii. You probably won't get more thorough help than this in doing so because no one does.
+  * Seriously, there's no good reason to un-mod a Wii. You probably won't get more thorough help than this in doing so because no one does. However if you insist, please direct your questions toward GBATemp, as these posts never go anywhere in r/WiiHacks.
   
 ### I want to change a different SD Card / USB Device, can I just copy everything over?
 
