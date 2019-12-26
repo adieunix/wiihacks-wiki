@@ -6,7 +6,9 @@ redirect_from: "/faqs/faqs.md"
 
 ## F.A.Q. Links:
 
-1. [Modding F.A.Q.](./modding.md)
+  Here are F.A.Q.s that have gotten too bit for this page.
+
+  1. [Modding F.A.Q.](./modding.md)
 
 ----
 
@@ -79,6 +81,16 @@ redirect_from: "/faqs/faqs.md"
   * After this issue appearing in the subreddit numerous time, the general public consensus is to not use it to rip games. It doesn't do it reliably, or accurately.
   
   * Use [CleanRip](https://github.com/emukidid/cleanrip) instead. It's more recently maintained and works much better.
+
+### Why is my [Crap](https://sites.google.com/site/completesg/backup-launchers/usb/crap) Forwarder not working in USB Loader GX?
+
+  * USB Loader GX was recently updated and it broke Crap compatibility. 
+  * Currently we have tested Crap forwarders on USB Loader GX v2.3.
+  * If you can live without the features of the newer version, this is going to be the only way to get the Crap forwarders working.
+
+#### References:
+
+  https://www.reddit.com/r/WiiHacks/comments/efone1/usb_loader_gx_isnt_launching_through_my_crap_wads/
 
 ----
 
