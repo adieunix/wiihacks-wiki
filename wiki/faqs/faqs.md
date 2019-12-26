@@ -4,6 +4,12 @@ description: A wiki maintained by the r/WiiHacks community.
 redirect_from: "/faqs/faqs.md"
 ---
 
+## F.A.Q. Links:
+
+1. [Modding F.A.Q.](./modding.md)
+
+----
+
 ## Regarding the subreddit.
 
 ### My post keeps getting flagged for Rule #4, why?
@@ -31,8 +37,6 @@ redirect_from: "/faqs/faqs.md"
   * The more information you provide, the less chance of the post getting removed as well as the more chance you have of getting someone to help you resolve your issue.
 
 ----
-
-## [Modding F.A.Q.](./modding.md) <- Click Link
 
 ## USB Loader GX
 
