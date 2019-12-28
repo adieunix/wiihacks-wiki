@@ -68,6 +68,8 @@ redirect_from: "/faqs/modding.md"
 
   * Yes. You can use normal filecopy operations of your OS to move files from one location to the other, with no issue.
   
+  * If you're moving to an SD Card remember that USB Loader GX will have to be replaced with something that will play Wii games off a SD Card.
+  
 ### Is there a way to transfer all the stuff on my Wii itself?
 
   * No. All software installed to the actual Wii memory will need to be re-installed.
