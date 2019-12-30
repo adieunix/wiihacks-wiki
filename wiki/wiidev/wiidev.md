@@ -14,16 +14,6 @@ Here on the [Getting Started](./setup.md) page you will learn the basics on sett
 
 ## Usefull Links
 
-[DevKitPro's site](https://devkitpro.org)
-
-[WiiBrew's Article on DevKit](https://wiibrew.org/wiki/DevkitPPC)
-
-[WiiBrew's Article on DevKit Setup for Windows](https://wiibrew.org/wiki/Devkitppc_setup_(Windows\))
-
-[WiiBrew's Article on DevKit Setup for Linux](https://wiibrew.org/wiki/Devkitppc_setup_(Linux\))
-
-[WiiBrew's Debugging on the Wii](https://wiibrew.org/wiki/Debugging)
-
-[WiiBrew's General Tutorials](https://wiibrew.org/wiki/Tutorials)
-
-[Github Repo for Wii-SDL](https://github.com/dborth/sdl-wii)
+{% for link in site.data.links.development %}
+  * [{{ link.name }}]({{ link.url }}) - {{ link.description }}
+{% endfor %}
