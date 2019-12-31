@@ -261,7 +261,7 @@ software:
       'description': 'For launching homebrew for the Wii'
     - 'name': 'The Homebrew Channel - OSE - Github'
       'url': 'https://github.com/fail0verflow/hbc'
-      'description': 'Open Source of HBB'
+      'description': 'Open Source of HBC'
     - 'name': 'USBLoaderGX - SourceForge'
       'url': 'https://sourceforge.net/projects/usbloadergx/'
       'description': 'A Wii game launcher, most commonly used and most recently updated'
