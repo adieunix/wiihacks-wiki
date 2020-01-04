@@ -14,6 +14,10 @@ redirect_from: "/rules/rules.md"
 
    [Reddit has strict policies against bullying and harassing](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/do-not-threaten-harass-or-bully). You are expected to act civil towards one and another. No abuse, bullying, harassing, antagonistic behavior etc, will be tolerated.
 
+   Giving people misleading advice also falls under this category. Users suspected to be giving incorrect advice maliciously or out of sheer ignorance will be banned.
+
+   The degree of action will typically depend on the history of the user account. Users who have historic evidence of disruptive behavior will almost certainly get banned for most transgressions. Users that have no account history will most likely be handled with as much prejudice if it looks like the purpose of the account was to be antagonistic, or 'throw-away'.
+
 2. No Spam
 
    Webster's defines spam as : unsolicited usually commercial messages (such as e-mails, text messages, or Internet postings) sent to a large number of recipients or posted in a large number of places.
@@ -22,15 +26,15 @@ redirect_from: "/rules/rules.md"
 
 3. No Piracy
 
-   Please limit your posts and responses to modding your Wii. Posts and comments that imply, hint, or state out-right intentions of piracy and/or any other illegal activity will not be tolerated. The post or comment if seen by a mod will be removed. Do it more than once and we'll remove your ability to post.
+   Posts and comments that imply, hint, or state out-right intentions of piracy and/or any other illegal activity will not be tolerated. Any post asking for or providing help in obtaining pirated software in any form will be removed. Regardless whether done intentionally or on accident. Direct links, site names, subreddit names, search engines, and private chat requests all apply.
 
-   Havens for piracy are often targeted by certain console/game manufacturers. Being known as one puts the community at risk. If you see a link or discussion regarding piracy, please report it.
+   Piracy friendly forums are often targeted legally by the legitimate I.P. holders. Being known as one puts the community at risk. If you see a link or discussion regarding piracy please report it.
 
 4. No Low-Effort Posts
 
    Since r/WiiHacks is constantly being bombarded with help requests and questions, we ask that you have enough courtesy to provide everyone with the information that is required to help you fix your issue.
 
-   Please don't post questions not directly related to modifying your Wii. There are plenty of resources accessible through [DDG](https://duckduckgo.com/) or [Google](https://www.google.com/) to learn how to do anything on your computer. Questions of this sort will be removed when seen by a moderator.
+   Limit help requests and questions to modifying your Wii. There are plenty of resources accessible through [DDG](https://duckduckgo.com/) or [Google](https://www.google.com/) to learn how to do anything on your computer. Questions of this sort will be removed when seen by a moderator.
 
    This will be judged on a post-by-post basis depending on the issue and what information is given. Posts that have the timber of "I have a problem, help me fix it!" and give nothing else will be removed.
 
@@ -42,22 +46,22 @@ redirect_from: "/rules/rules.md"
 
    * your post is in all caps or a wall of text.
    * your title has nothing to actually do with your issue. Just that you have one.
-   * there's no information in it and you have to be asked everything.
-   * someone makes a suggestion, and you reply that you've already done it and you hadn't mentioned it until then.
-   * we have information in the wiki regarding your specific problem and you haven't gone through them yet.
-   * searching google/ddg or even in the subreddit can locate a solution that you haven't tried.
+   * there is no information in it and you have to be asked everything.
+   * someone makes a suggestion, and you reply that you have already done it and you had not mentioned it until then.
+   * we have information in the wiki regarding your specific problem and you have not gone through them yet.
+   * searching google/ddg or even in the subreddit can locate a solution that you have not tried.
    * your main issue is you want someone to do something for you.
    * your question is covered in our F.A.Q. or recommended guide.
 
-   This list is not exhaustive, but meant to give you examples of what will be removed. Keep missing the mark after being given a warning and you'll be given a ban.
+   This list is not exhaustive, but meant to give you examples of what will be removed.
 
 # Bans and Circumventing Bans
 
-  Bans will be determined by the type and magnitude of violation and whether or not its a repeated occurance.
+  Bans will be determined by the type and magnitude of violation and whether or not its a repeated occurrence, and what the history of the user account looks like.
 
   All spambots will be banned permanently.
 
-  We know that accounts are anonymous. We expect people to circumvent bans by creating new accounts. We will ban the new account if a) it violates a rule that warrants it, and b) we discover you're circumventing the ban.
+  We know that accounts are anonymous. We expect people to circumvent bans by creating new accounts. We will ban the new account if a) it violates a rule that warrants it, and b) we discover you are circumventing the ban.
 
   You will also be reported to reddit for violating their [Site-Wide Rules](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/what-ban-evasion).
 
