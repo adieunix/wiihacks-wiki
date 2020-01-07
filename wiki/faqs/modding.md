@@ -46,7 +46,8 @@ redirect_from: "/faqs/modding.md"
 
 ### How do I know the current mod/cios state of my Wii?
 
-  * Currently [SysCheck](http://www.hacksden.com/downloads.php?do=file&id=149) is recommended.
+  * Currently [SysCheck](http://www.hacksden.com/downloads.php?do=file&id=149) is recommended. Though be warned, there are certain kit-installers that can change your IOSes without changing the version number, thereby preventing your Wii from being modified. 
+  * ["The installer tells me that it couldn't find a vulnerable IOS or something? What's that about?"](http://hbc.hackmii.com/faq/)
 
 ### I've botched the process, but my Wii still seems to work, what do I do?
 
@@ -63,7 +64,14 @@ redirect_from: "/faqs/modding.md"
   * If you were lucky enough to not be able to use an upgrade, you'll want to download all of the stock IOS and replace all of the modified ones with originals. Of course you'll still need your homebrew to do this with... The suggested tool would be the NUS Downloader.
 
   * Seriously, there's no good reason to un-mod a Wii. You probably won't get more thorough help than this in doing so because no one does. However if you insist, please direct your questions toward GBATemp, as these posts never go anywhere in r/WiiHacks.
-  
+
+### Can I update my mod? Or, I just bought a modded Wii, what do I do?
+
+  * As stated before: Factory reset will clear out the user data, not the mods. Do it if you don't want what is on there. It might remove the HBC and you'll have to re-run the hack.
+  * Clearing the SD card will remove all custom homebrew not installed on the Wii.
+  * Realistically you'll want to just remove anything you don't want, and update anything you want to keep.
+  * Update the cIOS via the recommended guide, and update any homebrew software it's running to the latest version.
+
 ### I want to change a different SD Card / USB Device, can I just copy everything over?
 
   * Yes. You can use normal filecopy operations of your OS to move files from one location to the other, with no issue.
