@@ -39,7 +39,7 @@ redirect_from: "/rules/posting.md"
 
 ### Posting a Syscheck
 
-   * If the issue or question you have is regarding your setup, then posting a [syscheck](http://www.hacksden.com/downloads.php?do=file&id=149) to [pastebin](https://pastebin.com) like [this](https://pastebin.com/agpxtvXz) is *REQUIRED*.
+   * If the issue or question you have is regarding your setup, then posting a [syscheck](http://www.hacksden.com/downloads.php?do=file&id=149) to [pastebin](https://pastebin.com) like [this](https://pastebin.com/agpxtvXz) is *REQUIRED* and must be included in your post.
 
 ## Post Not Showing up?
 
