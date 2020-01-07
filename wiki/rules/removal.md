@@ -4,7 +4,7 @@ description: Templates to post for removal messages.
 redirect_from: "/rules/removal.md"
 ---
 
-# Why does this exist?
+## Why does this exist?
 
 Templates are created here and then pasted from this document. It is considered the original and should always be gone to as the source of this information. If there is a discrepancy on the ones configured in reddit, these should be consulted first.
 
@@ -12,62 +12,56 @@ Remember that variables from jekyll are not to be used in these templates as the
 
 You can test the links embedded in this document from the wikipage.
 
-# Rule #3 -> No Piracy -> Asking
+----
 
-Asking for the location of rights-protected intellectual property, ie pirated games or software, is illegal and against rule #3 of the subreddit.
+### Rule #1 -> Be Civil - Comment Removal
 
-Please make sure you are reading [the rules](https://www.wiihacks.org/rules), as well as the [pinned post](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/) before you post or reply in this subreddit.
+Removed for Rule #1 -> Be Civil
 
-# Rule #4 -> Low-Effort Help Request
+* [Rules](https://www.wiihacks.org/rules).
+* [Posting Guidelines](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/).
 
-Removed for rule #4. Please be more helpful when requesting help. If you need help on determining how you can do this, please consult the wiki and the pinned post.
+----
 
-Please make sure you are reading [the rules](https://www.wiihacks.org/rules), as well as the [pinned post](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/) before you post or reply in this subreddit.
+### Rule #3 -> No Piracy -> Post Removal
 
-# Rule #4 -> How do I mod my Wii?
+Removed for Rule #3 -> No Piracy.
 
-This message has been removed as unnecessary under rule #4.
-
-The information on where to begin with modding your Wii is contained in the pinned post marked [README!!! : Read This Post Before Posting or Replying on r/WiiHacks](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/).
-
-Also, in the side-bar is the subreddit's [Wiki and FAQ](https://www.wiihacks.org/faqs), as well as the [recommended guide](https://wii.guide/). You will most likely find your answer somewhere between the two.
-
-Please make sure you are reading [the rules](https://www.wiihacks.org/rules), as well as the [pinned post](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/) before you post or reply in this subreddit.
-
-# Rule #3 -> No Piracy -> Leading
-
-Instructions on how to find rights-protected intellectual property, ie pirated games or software, as well as posting links to sites containing said software is illegal and against rule #3 of the subreddit.
+* Any post or comment asking for or providing help in obtaining pirated software in any form will be removed.
+* Any post or comment discussing piracy.
+* Direct links, site names, subreddit names, search engines, and private chat requests all apply.
 
 Please make sure you are reading [the rules](https://www.wiihacks.org/rules), as well as the [pinned post](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/) before you post or reply in this subreddit.
 
-# Rule #4 -> USB Loader GX / Nitendont
+----
 
-Removed for rule #4 to cut down on regularly repeated questions/issues.
+### Rule #3 -> No Piracy -> Comment Removal
 
-USB Loader GX / Nitendont issues are the most commonly posted help request currently. Meaning that (*nearly) every issue you can have with it has already been answered in a previous post.
+Removed for Rule #3 -> No Piracy.
+  
+* [Rules](https://www.wiihacks.org/rules).
+* [Posting Guidelines](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/).
 
-You can consult our [Wiki](https://www.wiihacks.org/faqs#usb-loader-gx) with a checklist and most common causes.
+----
 
-You can access the previous posts with a [reddit search](https://www.reddit.com/r/WiiHacks/search/?q=USB%20Loader%20GX%20showing&restrict_sr=1&sort=new).
+### Rule #4 -> Low-Effort Post -> Post Removal
 
-Finally, if you are still unable to find a solution, feel free to create a new post. Please include how you got to your situation, the equipment and software involved, and the steps you have tried to take to resolve it found in the Wiki, previous posts, and anything else.
+Removed for Rule #4 -> Low-Effort Post
 
-# Rule #4 -> This question has been asked before.
+* [Recommended Guide](https://wii.guide/) for getting started.
+* [WiiHacks Wiki and F.A.Q.](https://www.wiihacks.org/) for common questions.
+* Search the subreddit, use the flair system to look for resolved solutions and answered questions.
+* [Rules](https://www.wiihacks.org/rules).
+* [Posting Guidelines](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/).
+* [DDG](https://www.duckduckgo.com).
+* Read the documentation pertaining to the software you are trying to use.
 
-Removed for rule #4 to cut down on regularly repeated questions/issues.
+Loader Issues/Questions (USBLoaderGX, WiiFlow, cfg-usbloader, etc)
 
-The information you've requested is almost certainly covered in;
+* Syscheck is *required*.
+* [WiiHack's USBLoaderGX Checklist](https://www.wiihacks.org/faqs#usb-loader-gx). Address each issue in your post body.
+* Search [Previous USBLoaderGX Questions](https://www.reddit.com/r/WiiHacks/search/?q=USB%20Loader%20GX&restrict_sr=1&sort=new). Each issue that matches yours that is marked 'issue resolved' must be addressed in your post body.
 
-* [Our F.A.Q.](http://www.wiihacks.org/faqs)
-* [The Supported Modding Guide](https://wii.guide/)
-* Searching the Subreddit
+Posting a help request / question needs to be your last resort, not your first.
 
-Please make sure you are reading [the rules](https://www.wiihacks.org/rules), as well as the [pinned post](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/) before you post or reply in this subreddit.
-
-# Rule #4 -> This question is covered in our F.A.Q.
-
-Removed for Rule #4. 
-
-This is already covered in this [F.A.Q. Entry](<FAQ_URL_HERE>).
-
-Please make sure you are reading [the rules](https://www.wiihacks.org/rules), as well as the [pinned post](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/) before you post or reply in this subreddit.
+----
