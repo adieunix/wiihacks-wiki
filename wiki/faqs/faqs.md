@@ -97,6 +97,12 @@ redirect_from: "/faqs/faqs.md"
 ## Miscellaneous
 
   While the faq is growing, anything that doesn't have its own category will go here.
+  
+### Homebrew Browser
+
+  * Don't use it. There's no support for it.
+  
+  * No? Don't ask for help on r/WiiHacks for it. We don't support it.
 
 ### How do I manage my virtual Wii game library?
 
