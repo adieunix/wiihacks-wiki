@@ -23,6 +23,15 @@ Removed for Rule #1 -> Be Civil
 
 ----
 
+### Rule #2 -> No Spam - Post Removal
+
+Removed for Rule #2 -> No Spam
+
+* [Rules](https://www.wiihacks.org/rules).
+* [Posting Guidelines](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/).
+
+----
+
 ### Rule #3 -> No Piracy -> Post Removal
 
 Removed for Rule #3 -> No Piracy.
