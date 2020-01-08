@@ -40,6 +40,7 @@ redirect_from: "/rules/rules.md"
    * Issues that have a high volume *must* include a detailed amount of information in them.
 
    Any other post qualifying as low-effort may be removed.
+   * Reposts are currently not allowed. Original posts only.
 
 # Removals, Bans and Circumventing Bans
 
