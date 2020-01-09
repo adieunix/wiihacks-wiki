@@ -35,8 +35,8 @@ redirect_from: "/rules/rules.md"
    * Must not be hard to read.
    * No "what do I do next?" questions.
    * "What software do you recommend?" posts will only be allowed if one hasn't occurred recently. Search the subreddit.
-   * No questions addressed by our recommended guide F.A.Q., or DDG/Google search.
-   * Anything asking for someone else to do something for you will isn't allowed.
+   * No questions addressed by our recommended guide, F.A.Q., or DDG/Google search.
+   * Anything asking for someone else to do something for you.
    * Issues that have a high volume *must* include a detailed amount of information in them.
 
    Any other post qualifying as low-effort may be removed.
