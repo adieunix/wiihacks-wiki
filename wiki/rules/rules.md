@@ -30,7 +30,7 @@ redirect_from: "/rules/rules.md"
    Help Requests and Questions:
    * Needs to be Wii Related.
    * Needs to have an accurate and *brief* post title. The title must summarize the description contained in the body.
-   * Needs to include all relevant information regarding the issue. Software used, syscheck, hardware used, what you have installed on your SD/USB, in almost all cases.
+   * Needs to include all relevant information regarding the issue. Software used, syscheck, hardware used, what you have installed on your SD/USB, tutorials, in almost all cases. If any of these requirements requires you to violate rule #3, then please take your question to a community that will allow it.
    * Must be more than just a video or a picture. It needs a description.
    * Must not be hard to read.
    * No "what do I do next?" questions.
