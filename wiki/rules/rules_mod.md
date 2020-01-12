@@ -40,40 +40,6 @@ Moderator rules are fully public and can be viewed by any user of r/WiiHacks. If
 
      If you plan on leaving for a prolonged duration, just make sure the active top mod knows.
 
-# Moderation Queues and Desirable States.
-
-  You can read the official help [here](https://mods.reddithelp.com/hc/en-us/categories/360000090312-Reddit-Moderation-To-ols). Below are my musings on the optimum state for each queue.
-
-  1. Mod Queue -> A Throw-all
-
-     This is a queue with items that are needing action, minus ones that appear in the Unmoderated Queue. Auto-removals, reports, spam. Once it is resolved it will disappear. 
-
-     It's optimal that this queue is empty.
-
-  2. Reports -> User reports
-
-     These are generated when anyone clicks the 'report' button. Once it is resolved it will disappear. 
-
-     It's optimal that this queue is empty.
-
-  3. Spam -> All removed messages
-
-     Removed messages will remain in this folder. Messages that are removed by mistake can be approved, and ones that are removed correctly so can be marked and documented properly. Messages remain in this queue when removed for any reason. 
-
-     Optimal queue contains only posts that have been rightfully removed with documented reason for removal.
-  
-  4. Edited -> post/reply edits
-
-     "The functionality of the edited queue is the same as your main mod queue but only shows content that has been edited."
-
-     I'm not sure I've found a use for this yet.
-
-  5. Unmoderated -> New posts that are unapproved
-
-     Anytime a new post is made, it generates an entry in this queue. If you click on the "Approve" check, it removes it. It's a way to ensure every post has been inspected by a mod.
-
-     Optimal queue is empty.
-
 # [Removal Templates](./removal.md).
 
 # Questions or Concerns.
