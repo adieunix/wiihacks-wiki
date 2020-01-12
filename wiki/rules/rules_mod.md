@@ -26,17 +26,15 @@ Moderator rules are fully public and can be viewed by any user of r/WiiHacks. If
 
   3. You determine your own involvement level. 
 
-     If all you want to do is participate in the same way before you were a mod, that's fine. You were asked to be a mod because you were helpful in the forums as the first reason. You are welcome to walk away at anytime, no hard feelings.
+     If all you want to do is participate in the same way before you were a mod, that's fine. You are welcome to walk away at anytime, no hard feelings. If you chose to be responsible for something, you're only asked to keep up with it and hand it off responsibly.
 
   4. Using your status as a moderator to intimidate, threaten, garner or give favor will get your mod removed.
 
-  5. Any action you take that allows you to document it you are required to use the facilities to document why you've performed this action if it isn't already obvious.
-
-     If you ban a user, either well document it in the reports, or send a mod mail with the details. If you ban someone and the other mods don't know why, it'll most likely get lifted.
+  5. Every moderator action you take that allows you to document, must be documented.
 
      Excessive actions with no documentation will get your mod removed.
 
-  6. Stay responsive. This isn't a rule as much as a guideline. Currently reddit mail, and /u/wiihacks modmail are the only official forms of communication for the moderation of the subreddit.
+  6. Stay responsive. This isn't a rule as much as a guideline. Currently reddit mail, and /r/wiihacks modmail are the only official forms of communication for the moderation of the subreddit.
 
      Moderators that are unresponsive in a reasonable amount of time to direct requests run the risk of being removed as dead-weight. It would be much safer to add you back later if it is a mistake, than run the risk of a dead account sitting with moderator access to the forum.
 
@@ -60,7 +58,7 @@ Moderator rules are fully public and can be viewed by any user of r/WiiHacks. If
 
   3. Spam -> All removed messages
 
-     Removed messages will remain in this folder. Messages that are removed by mistake can be approved, and ones that are removed correctly so can be marked documented properly. Messages remain in this queue when removed for any reason. 
+     Removed messages will remain in this folder. Messages that are removed by mistake can be approved, and ones that are removed correctly so can be marked and documented properly. Messages remain in this queue when removed for any reason. 
 
      Optimal queue contains only posts that have been rightfully removed with documented reason for removal.
   
