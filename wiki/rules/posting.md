@@ -31,6 +31,8 @@ redirect_from: "/rules/posting.md"
    
      [The WiiHacks Wiki F.A.Q.](https://www.wiihacks.org/faqs)
 
+   * Your title must be brief and completely encompass your issue. Short titles that convey no information and long titles that give full histories and are hard to read will be removed.
+
    * Loader help (USBLoaderGX, cfg-usbloader, WiiFlow, etc) need to have all relevant information or they will be removed. Hardware, Software, syscheck, & SD/USB Card setup must all be provided.
    
    * Post your syscheck as a link. Posts that have syschecks in the body will be removed as they are hard to read.
