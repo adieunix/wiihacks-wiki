@@ -40,6 +40,7 @@ redirect_from: "/rules/posting.md"
 ### Posting a Syscheck
 
    * If the issue or question you have is regarding your setup, then posting a [syscheck](http://www.hacksden.com/downloads.php?do=file&id=149) to [pastebin](https://pastebin.com) like [this](https://pastebin.com/agpxtvXz) is *REQUIRED* and must be included in your post.
+   * HDE's site is known to go down, [Here is an alternate download for it](https://wiidatabase.de/downloads/wii-tools/syscheck-hacksden-edition/). It's in German, but it works.
 
 ## Post Not Showing up?
 

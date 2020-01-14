@@ -10,7 +10,8 @@ redirect_from: "/links.md"
 
 # ***WARNING!***
 
-  There is a lot of software listed that is old and no longer used. Please make sure you know what you're doing before you attempt to use any software you aren't familiar with.
+  * There is a lot of software listed that is old and no longer used. Please make sure you know what you're doing before you attempt to use any software you aren't familiar with. 
+  * There are youtuber's and youtube tutorials listed which are known to cause issues when their videos are followed. Please do your research before using them.
 
 ## Blogs
 
