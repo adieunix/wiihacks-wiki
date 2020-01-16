@@ -71,6 +71,4 @@ Loader Issues/Questions (USBLoaderGX, WiiFlow, cfg-usbloader, etc)
 * [WiiHack's USBLoaderGX Checklist](https://www.wiihacks.org/faqs#usb-loader-gx). Address each issue in your post body.
 * Search [Previous USBLoaderGX Questions](https://www.reddit.com/r/WiiHacks/search/?q=USB%20Loader%20GX&restrict_sr=1&sort=new). Each issue that matches yours that is marked 'issue resolved' must be addressed in your post body.
 
-Posting a help request / question needs to be your last resort, not your first.
-
 ----

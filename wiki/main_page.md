@@ -36,6 +36,6 @@ redirect_from: "/"
    
    Development on the Wii.
 
-6. [Useful Links](./links.md)
+6. [Useful Links](./links/links.md)
    
    Extra links.

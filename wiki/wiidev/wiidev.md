@@ -14,6 +14,6 @@ Here on the [Getting Started](./setup.md) page you will learn the basics on sett
 
 ## Usefull Links
 
-{% for link in site.data.links.development %}
+{% for link in site.data.links_development %}
   * [{{ link.name }}]({{ link.url }}) - {{ link.description }}
 {% endfor %}
