@@ -8,6 +8,10 @@ redirect_from: "/links/software.md"
 
   Various Software for the Wii, broken down into three categories:
 
+## ***WARNING!***
+
+  Some of the software on this page can damage your Wii. Please know what you are doing before you utilize it.
+
 ## Emulators
 
   Here you will find links to emulators for the Wii and articles related to using them.

@@ -6,7 +6,7 @@ redirect_from: "/links/community.md"
 
 # Communities
 
-  Here is a list of communities that related to the Wii.
+  Here is a list of communities that are related to the Wii.
   
 {% for link in site.data.links_community %}
   * [{{ link.name }}]({{ link.url }}) - {{ link.description }}

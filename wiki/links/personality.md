@@ -4,6 +4,12 @@ description: Internet Personalities Related to the Wii.
 redirect_from: "/links/personality.md"
 ---
 
+# Personalities
+
+## ***Disclaimer!***
+
+This information is for archival informational purposes only and does not imply endorsement by r/WiiHacks or WiiHacks.org.
+
 ## Blogs
 
   Sites that host mostly old blogs related to Wii modding.
