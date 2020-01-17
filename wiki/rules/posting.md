@@ -16,7 +16,7 @@ redirect_from: "/rules/posting.md"
 
 ## NO PIRACY.
 
-   * Don't ask or tell where to find pirated games. Don't post about pirating games in any way shape or form. It violates rule #3.
+   * Don't ask or tell where to find pirated software. Don't post about pirating software in any way shape or form. It violates rule #3.
    
    * Piracy friendly forums are often targeted legally by the legitimate I.P. holders. Being known as one puts the community at risk. If you see a link or discussion regarding piracy please report it.
 
