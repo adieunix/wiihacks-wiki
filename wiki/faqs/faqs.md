@@ -4,11 +4,9 @@ description: A wiki maintained by the r/WiiHacks community.
 redirect_from: "/faqs/faqs.md"
 ---
 
-## F.A.Q. Links:
+## [Modding F.A.Q.](./modding.md)
 
-  Here are F.A.Q.s that have gotten too bit for this page.
-
-  1. [Modding F.A.Q.](./modding.md)
+  You can find the modding FAQ [here](./modding.md).
 
 ----
 
