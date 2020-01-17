@@ -44,6 +44,86 @@ redirect_from: "/faqs/modding.md"
 
   * Wii compatibility is sporadic, but ones that outright don't work rarely than most people think. I'd suggest checking the [compatibility lists](https://www.wiihacks.org/links#storage-compatibility-lists) and if you plan on buying one, make sure the cost is negligible, or the place has a liberal return policy.
 
+### Does anyone have a pre-setup SD/USB?
+
+  * No, and asking for one would most likely violate rule #3 of the subreddit, and certainly violates rule #4.
+
+### Well then, how do I setup my SD/USB storage?
+
+   * This information is covered in several tutorials out there as well as the documentation for each piece of software.
+
+   * [homebrew channel](https://wiibrew.org/wiki/Homebrew_Channel) -> for homebrew application installation.
+
+   * [nintendont](https://github.com/FIX94/Nintendont) -> For your GameCube games.
+
+   * [usb loader gx](https://sourceforge.net/p/usbloadergx/wiki/Installation/) -> For your Wii games.
+   
+   * Best information I could find on placing Wii games is on the [WiiBackupManager Site](http://www.wiibackupmanager.co.uk/) under the details for 'Simulated WBFS drives (FAT32/NTFS)' Of course if you can use this software it does it all for you.
+
+#### Homebrew Applications
+
+   * All applications for homebrew (dol, icon, meta.xml) will be installed in its corresponding apps directory.
+
+   ```
+   /apps
+   /apps/usbloadergx/boot.dol
+   /apps/usbloadergx/icon.png
+   /apps/usbloadergx/meta.xml
+   ```
+
+   * Each program has different requirements for its configuration, and you need to *read* those instructions. For example;
+
+   ```
+   /apps
+   /apps/snes9xgx/boot.dol
+   /apps/snes9xgx/icon.png
+   /apps/snes9xgx/meta.xml
+   ```
+
+   * And this will require a config directory ...
+
+   ```
+   /snex9xgx
+   /snex9xgx/roms
+   /snex9xgx/artwork
+   ```
+
+#### Wii Games for USBLoaderGX/WiiFlow/etc.
+
+   * Additional information can be found on the [Official Support Thread on GBATemp](https://gbatemp.net/threads/usb-loader-gx.149922/). As well as searching everywhere as it's a commonly asked question.
+
+   * If you can, use [WiiBackupManager](http://www.wiibackupmanager.co.uk/). If you can't, read the blurb under the details of 'Simulated WBFS drives (FAT32/NTFS)' and go download [Wit Tools](https://wit.wiimm.de/) for anything else it does.
+
+   * Wii games must be an ISO or WBFS. Nkit images will *not* work with loaders currently.
+
+   * The SD/USB card that you put them on must be either NTFS or Fat32. If you choose NTFS, realize that other pieces of homebrew might not recognize the partition, such as Nintendont. If you choose Fat32, realize that all disc images over 4gb will need to be split.
+
+   * Images can be converted to and fro, and split with the numerous tools that are out there to do so. I recommend [WIT](https://wit.wiimm.de/).
+
+   * Images should be named as per their name, and [ID](https://www.gametdb.com/Wii/List), with its corresponding extension (iso OR wbfs).
+
+   ```
+   Final_Fantasy_Fables-Chocobos_Dungeon_R7FEGD.iso
+   ```
+
+   * The name is optional. The game could just be named the ID.
+   
+   ```
+   R7FEGD.wbfs
+   ```
+
+   * Images should be placed in a directory named wbfs off of root.
+
+   ```
+   /wbfs/Final_Fantasy_Fables-Chocobos_Dungeon_R7FEGD.iso
+   ```
+
+#### Nintendont - GameCube Games
+
+   * Games can be in ISO, GCM, WBFS, or even NKit support has been verified.
+
+   * There is no need for anything additional in this section as the [Nintendont Github](https://github.com/FIX94/Nintendont) covers it as well as you can. Please read the README.md under the section 'Quick Installation'.
+   
 ### How do I know the current mod/cios state of my Wii?
 
   * Currently [SysCheck](http://www.hacksden.com/downloads.php?do=file&id=149) is recommended. Though be warned, there are certain kit-installers that can change your IOSes without changing the version number, thereby preventing your Wii from being modified. 

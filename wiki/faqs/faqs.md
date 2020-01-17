@@ -62,11 +62,11 @@ redirect_from: "/faqs/faqs.md"
   
   * Make sure your game files are in the proper directory structure. They are different for Wii/USBLoaderGX games, and Nintendont games. You can find information on how to do that in the links below:
 
-    [nintendont](https://sites.google.com/site/completesg/backup-launchers/gamecube/nintendont) -> For your GameCube games.
+    [nintendont](https://github.com/FIX94/Nintendont) -> For your GameCube games.
 
     [usb loader gx](https://sourceforge.net/p/usbloadergx/wiki/Installation/) -> For your Wii games.
 
-  * Make sure USB Loader is configured properly. You can find information on doing so in the link above. Worst case scenario, delete your config. Start from scratch, remember what you change.
+  * Make sure USB Loader is configured properly. You can find information on doing so in the link above. Worst case scenario, rename your config so it will generate a new one.
 
   * Are your images wbfs or iso? If they have the extension '.nkit' they will not work. Get a different image or learn to convert that one.
   
