@@ -25,6 +25,9 @@
 - 'name': 'Romhacking.net'
   'url': 'http://www.romhacking.net/'
   'description': 'A Rom Hacking Community'
+- 'name': 'Smash Bros Legacy - Discord'
+  'url': 'https://discordapp.com/invite/T7GxESM'
+  'description': 'A Smash Brothers Legacy Discord.'
 - 'name': 'Wii-Homebrew.com Board'
   'url': 'https://forum.wii-homebrew.com/'
   'description': 'Everything about Homebrew, Tweaks and more for Wii, Wii U, DS, DSi, 2DS and 3DS'
@@ -46,4 +49,3 @@
 - 'name': 'Wii Mini Hacking - Discord'
   'url': 'https://discordapp.com/invite/QVFThu6'
   'description': 'A community focused on the Wii Mini - home of the Bluebomb'
-
