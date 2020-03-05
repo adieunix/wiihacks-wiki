@@ -12,8 +12,6 @@ Moderator rules are fully public and can be viewed by any user of r/WiiHacks. If
 
   If there is anything that needs immediate attention, please direct requests towards them. If this changes the moderators and community will be notified.
 
-  While other moderators can help out with the routine tasks of the subreddit, the ultimate responsibility for tasks such as queue maintenance is the top active moderator.
-
 # Rules
 
   One of our goals is to keep this forum enjoyable and available to as many people as we can. The following ruleset was created with that in mind.
@@ -32,15 +30,17 @@ Moderator rules are fully public and can be viewed by any user of r/WiiHacks. If
 
   5. Every moderator action you take that allows you to document, must be documented.
 
-     Excessive actions with no documentation will get your mod removed.
+     Excessive actions with no documentation will get your mod removed. Actions like post removal need to be accompanied with an explanation to OP as to why their post is being removed at minimum.
 
-  6. Stay responsive. This isn't a rule as much as a guideline. Currently reddit mail, and /r/wiihacks modmail are the only official forms of communication for the moderation of the subreddit.
+  6. Stay responsive. Currently reddit mail, /r/wiihacks modmail, and discord are the only official forms of communication for the moderation of the subreddit.
 
      Moderators that are unresponsive in a reasonable amount of time to direct requests run the risk of being removed as dead-weight. It would be much safer to add you back later if it is a mistake, than run the risk of a dead account sitting with moderator access to the forum.
 
      If you plan on leaving for a prolonged duration, just make sure the active top mod knows.
 
 # [Removal Templates](./removal.md).
+
+  Please make sure you are using the templates on removal actions.
 
 # Questions or Concerns.
 
