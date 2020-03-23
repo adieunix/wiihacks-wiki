@@ -16,7 +16,7 @@ redirect_from: "/"
 
 ----
 
-Here is a [Link to our Discord](https://discord.gg/tD4YPKS)
+Here is a [link to our Discord](https://discord.gg/tD4YPKS)
 
 ----
 
