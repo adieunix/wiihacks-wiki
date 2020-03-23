@@ -15,6 +15,8 @@ redirect_from: "/"
   ** Please read both the Rules and F.A.Q. before posting to the forum. **
 
 ----
+Here is a [Link to our Discord](https://discord.gg/tD4YPKS)
+----
 
 1. [Rules](./rules/rules.md)
 
