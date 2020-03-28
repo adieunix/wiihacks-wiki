@@ -16,6 +16,10 @@ redirect_from: "/"
 
 ----
 
+Here is a [link to our Discord](https://discord.gg/6fsXnTr)
+
+----
+
 1. [Rules](./rules/rules.md)
 
    This section contains the rules to the forum.
