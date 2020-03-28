@@ -83,8 +83,8 @@ redirect_from: "/faqs/faqs.md"
 ### Why is my [Crap](https://sites.google.com/site/completesg/backup-launchers/usb/crap) Forwarder not working in USB Loader GX?
 
   * USB Loader GX was recently updated and it broke Crap compatibility. 
-  * Currently we have tested Crap forwarders on USB Loader GX v2.3.
-  * If you can live without the features of the newer version, this is going to be the only way to get the Crap forwarders working.
+  * Currently we have tested Crap forwarders on USB Loader GX v3.0 rev 1271.
+  * If you are using USB Loader GX v3.0 rev 1272, it will not work.
 
 #### References:
 
