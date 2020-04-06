@@ -59,7 +59,7 @@ Removed for Rule #4 -> Low-Effort Post
 
 * [Recommended Guide](https://wii.guide/) for getting started.
 * [WiiHacks Wiki and F.A.Q.](https://www.wiihacks.org/) for common questions.
-* Search the subreddit, use the flair system to look for resolved solutions and answered questions.
+* [Search the subreddit](https://www.reddit.com/r/WiiHacks/search).
 * [Rules](https://www.wiihacks.org/rules).
 * [Posting Guidelines](https://www.reddit.com/r/WiiHacks/comments/e4bxdi/readme_read_this_post_before_posting_or_replying/).
 * [DDG](https://www.duckduckgo.com).
