@@ -38,10 +38,10 @@ Moderator rules are fully public and can be viewed by any user of r/WiiHacks. If
 
      If you plan on leaving for a prolonged duration, just make sure the active top mod knows.
 
-# [Removal Templates](./removal.md).
+# [Removal Templates](./removal.md)
 
   Please make sure you are using the templates on removal actions.
 
-# Questions or Concerns.
+# Questions or Concerns
 
   If there are any questions are concerns send a modmail, the top active mod, or please direct them to /u/BloodyThorn as needed.
