@@ -1,0 +1,428 @@
+web:
+  - name: 'Complete Softmod Guide'
+    url: 'https://sites.google.com/site/completesg/'
+    date: Outdated'
+    description: 'This tutorial is accurate for the most part but can be dated and poorly maintained.'
+    piracy: false
+  - name: 'Using the d2x cIOS installer - hacksden'
+    url: 'http://www.hacksden.com/showthread.php/7070-GUIDE-Using-the-d2x-cIOS-installer'
+    date: 2013-03-24
+    description: ''
+    piracy: false
+  - name: 'Can you completely remove all the hacks and homebrew from a Wii, but keep the saves? - GBAtemp.net'
+    url: 'https://gbatemp.net/threads/can-you-completely-remove-all-the-hacks-and-homebrew-from-a-wii-but-keep-the-saves.484556/'
+    date: 2017-09-20
+    description: ''
+    piracy: false
+  - name: 'Como Instalar los d2x cIOS installer v8 sin internet - taringa'
+    url: 'https://www.taringa.net/+wii_wiiu/como-instalar-los-d2x-cios-installer-v8-sin-internet_134lh9'
+    date: 2012-12-25
+    description: ''
+    piracy: false
+  - name: 'WAD Manager - Complete Softmod Guide'
+    url: 'https://sites.google.com/site/completesg/how-to-use/wad-manager'
+    date: 2013-08-28
+    description: ''
+    piracy: false
+  - name: 'DARKCORP - Complete Softmod Guide'
+    url: 'https://sites.google.com/site/completesg/backup-launchers/disc/darkcorp'
+    date: None
+    description: 'Seriously people. Dont use this.'
+    piracy: false
+  - name: 'Playing WBFS off of your SD card on your Wii - Easily Hacked'
+    url: 'http://easilyhacked.blogspot.com/2012/02/playing-wbfs-off-of-your-sd-card-on.html?m=1'
+    date: 2012-02-21
+    description: ''
+    piracy: false
+  - name: 'Fix Wii Remote Sync on Wii while stuck in autoboot homebrew loop - GBAtemp.net'
+    url: 'https://gbatemp.net/threads/fix-wii-remote-sync-on-wii-while-stuck-in-autoboot-homebrew-loop.549509/'
+    date: 2019-10-04
+    description: ''
+    piracy: false
+  - name: 'GAFs Wii Homebrew Tutorial'
+    url: 'http://gwht.wikidot.com/'
+    date: None
+    description: ''
+    piracy: false
+  - name: 'Guide to Safely UPDATE your SOFTMOD!! Fixes most compatibility issues - GBAtemp.net'
+    url: 'https://gbatemp.net/threads/guide-to-safely-update-your-softmod-fixes-most-compatibility-issues.394397/'
+    date: 2015-08-06
+    description: ''
+    piracy: false
+  - name: 'How to make a Homebrew Channel Theme. - GBAtemp.net'
+    url: 'https://gbatemp.net/threads/how-to-make-a-homebrew-channel-theme.310780/'
+    date: 2011-09-08
+    description: ''
+    piracy: false
+  - name: 'Installing RSSMii - Wii Guide'
+    url: 'https://wii.guide/rssmii.html'
+    date: 2020
+    description: ''
+    piracy: false
+  - name: 'Nintendont - Complete Softmod Guide'
+    url: 'https://sites.google.com/site/completesg/backup-launchers/gamecube/nintendont'
+    date: Outdated
+    description: ''
+    piracy: false
+  - name: 'How to hack / softmod the Wii in 2019 - Se7enSins'
+    url: 'https://www.se7ensins.com/forums/threads/how-to-hack-softmod-the-wii-in-2019.1778171/'
+    date: 2019-09-5
+    description: ''
+    piracy: false
+  - name: 'USB Loader GX - Complete Softmod Guide'
+    url: 'https://sites.google.com/site/completesg/backup-launchers/usb/gx'
+    date: None
+    description: ''
+    piracy: false
+  - name: 'Wii Guide - RiiConnect24'
+    url: 'https://wii.guide/'
+    date: Current
+    description: ''
+    piracy: false
+  - name: 'Wii Homebrew: How to Play Games That Require Updates - lifewire'
+    url: 'https://www.lifewire.com/how-do-i-play-games-that-require-a-system-update-2498310'
+    date: 2020-02-11
+    description: ''
+    piracy: false
+  - name: 'WiiFlow 4 The Masterpiece Pack by Abz - GBAtemp.net'
+    url: 'https://gbatemp.net/threads/wiiflow-4-the-masterpiece-pack-by-abz.336543/'
+    date: 2012-09-29
+    description: ''
+    piracy: false
+  - name: 'Wiimotes wont sync? read this. - GBAtemp.net'
+    url: 'https://gbatemp.net/threads/wiimotes-wont-sync-read-this.200015/'
+    date: 2009-12-31
+    description: ''
+    piracy: false
+  - name: 'Please read this if youre asking a question. - r/WiiHacks - u/facetiousfag'
+    url: 'https://www.reddit.com/r/WiiHacks/comments/7bw20o/please_read_this_if_youre_asking_a_question/?utm_source=reddit&utm_medium=usertext&utm_name=WiiHacks&utm_content=t1_ff56mxt'
+    date: 2017-11-09
+    description: ''
+    piracy: false
+  - name: 'A proper guide to replace DIOS MIOS with Nintendont - r/WiiHacks - u/dudemo'
+    url: 'https://www.reddit.com/r/WiiHacks/comments/666xld/a_proper_guide_to_replace_dios_mios_with/?utm_source=reddit&utm_medium=usertext&utm_name=WiiHacks&utm_content=t1_fmrzhee'
+    date: 2017-04-19
+    description: ''
+    piracy: false
+  - name: 'USB Loader GX Freezes or Hangs at Initialize USB - A Solution - r/WiiHacks - u/MalcolmEggs'
+    url: 'https://www.reddit.com/r/WiiHacks/comments/2z1ei5/usb_loader_gx_freezes_or_hangs_at_initialize_usb/'
+    date: 2015-03-14
+    description: ''
+    piracy: false
+  - name: 'USB Loader GX Troubleshooting Guide - r/WiiHacks - u/WiiExpertise'
+    url: 'https://www.reddit.com/r/WiiHacks/comments/dnfb81/usb_loader_gx_troubleshooting_guide/'
+    date: 2019-10-26
+    description: ''
+    piracy: false
+  - name: 'How to install and play NTSC Virtual Console wads on PAL Wii - r/WiiHacks - u/u/wagamamalullaby'
+    url: 'https://www.reddit.com/r/WiiHacks/comments/3zkxwl/guide_how_to_install_and_play_ntsc_virtual/'
+    date: 2016-01-05
+    description: ''
+    piracy: false
+
+youtube:
+  - name: 'A2Z Geek - A Complete Guide to Hacking the Wii (2017) 4.3U'
+    url: 'https://www.youtube.com/watch?v=6Hk5OHYD3Ic'
+    date: 2015-25-28
+    description: ''
+    piracy: false
+  - name: 'AmphiumNetwork - How to Install The Homebrew Channel on vWii'
+    url: 'https://www.youtube.com/watch?v=p6VXoikGto0'
+    date: 2016-12-29
+    description: ''
+    piracy: false
+  - name: 'Anton Retro - USB Loader GX Setup 2019 - Wii and GameCube Full Setup!'
+    url: 'https://www.youtube.com/watch?v=oi-HfuNRyvk'
+    date: 2019-04-13
+    description: ''
+    piracy: true
+  - name: 'ArcIntel - How to use my stuff - Mario Kart Wii (CTGP Only)'
+    url: 'https://www.youtube.com/watch?v=3njmXPAU_1A'
+    date: 2019-10-27
+    description: ''
+    piracy: false
+  - name: 'Austin Auddy Davenport - A Complete Wii Softmodding Tutorial - How to play games from a USB'
+    url: 'https://www.youtube.com/watch?v=4x2pw2DsGp8'
+    date: 2019-03-19
+    description: ''
+    piracy: false
+  - name: 'Bobby8451 - How to convert mym Wii System Menu files to csm Wii Sytsem Menu files'
+    url: 'https://www.youtube.com/watch?v=YI-tr3Kn_nY'
+    date: 2017-01-16
+    description: ''
+    piracy: false
+  - name: 'BullyWiiPlaza - Updated way of installing devkitPro (Homebrew Development Toolchain)'
+    url: 'https://www.youtube.com/watch?v=TUoqt0OEpWk'
+    date: 2018-12-26
+    description: ''
+    piracy: false
+  - name: 'Console Info - How To Mod Wii Mini with Bluebomb Via Console Bluetooth'
+    url: 'https://www.youtube.com/watch?v=tvPwCRzt9go'
+    date: 2019-10-12
+    description: ''
+    piracy: false
+  - name: 'Denver Gamer - [WiiHACKS] 1.09 Hacking the Nintendo Wii for Dummies - Wii2600 Emulator (Atari 2600)'
+    url: 'https://www.youtube.com/watch?v=o6aIsmS9zrk'
+    date: 2018-10-04
+    description: ''
+    piracy: false
+  - name: 'Denver Gamer - [WiiHACKS] 2.01 USB Loader GX (Nintendo Wii)'
+    url: 'https://www.youtube.com/watch?v=HXujJNQXMzc'
+    date: 2018-12-24
+    description: ''
+    piracy: false
+  - name: 'Eric Zander - How to Install Channel Forwarders on vWii (With Voice)'
+    url: 'https://www.youtube.com/watch?v=hHawPsk4OrI'
+    date: 2014-03-02
+    description: ''
+    piracy: false
+  - name: 'FantasticFixes - download nes snes sega psx n64 roms and more'
+    url: 'https://www.youtube.com/watch?v=CoBD901cMeU'
+    date: 2020-04-07
+    description: ''
+    piracy: false
+  - name: 'FantasticFixes - how to soft mod wii 4.3 and update all ios and cios with modmii'
+    url: 'https://www.youtube.com/watch?v=QCYcWaS_dRk'
+    date: 2020-04-06
+    description: ''
+    piracy: false
+  - name: 'FrameRater - Emulation On Wii / Playability Guide'
+    url: 'https://www.youtube.com/watch?v=I_REoKdrlfo'
+    date: 2019-08-18
+    description: ''
+    piracy: false
+  - name: 'frappzlul - How to fix Newer Super Mario Bros. Wii crash beginning / wristband FIX!'
+    url: 'https://www.youtube.com/watch?v=BmJn451kaYw'
+    date: 2017-07-31
+    description: ''
+    piracy: false
+  - name: 'GAM Studios - Mario Kart Wii - Ultimate Item Wheel Hack Tutorial'
+    url: 'https://www.youtube.com/watch?v=V3U812fMXZ0'
+    date: 2016-06-20
+    description: ''
+    piracy: false
+  - name: 'Game Binge - Wii Softmodding - PART 1 - MODMII'
+    url: 'https://www.youtube.com/watch?v=AnFkZkEhBjI'
+    date: 2013-10-12
+    description: ''
+    piracy: false
+  - name: 'GameInCanada - How to Soft-Mod WiiU - Pt: 9 & 10 - Inject Wii & GCN ISOs into Virtual Console Games!'
+    url: 'https://www.youtube.com/watch?v=8TuK4-ZzeSw'
+    date: 2018-02-21
+    description: ''
+    piracy: false
+  - name: 'Gamesjuegos - WiiFlow 4 The Masterpiece Pack by Abz cargado desde USB tutorial'
+    url: 'https://www.youtube.com/watch?v=_MBGEqhMXck'
+    date: 2017-11-16
+    description: ''
+    piracy: false
+  - name: 'HighTeckMan - Install USB Hard Drive for Wii (USB Loader GX)'
+    url: 'https://www.youtube.com/watch?v=gKPEgwbCFa8'
+    date: 2012-12-16
+    description: ''
+    piracy: false
+  - name: 'ImmodderNation - EXPAND YOUR WII U INTERNAL STORAGE WITH AN SSD'
+    url: 'https://www.youtube.com/watch?v=twbJJ3gbYSo'
+    date: 2019-02-27
+    description: ''
+    piracy: false
+  - name: 'Jack Sorrell - How to Homebrew Your Wii U 5.5.4 for FREE'
+    url: 'https://www.youtube.com/watch?v=LW5QVxAlDoY'
+    date: 2019-05-30
+    description: ''
+    piracy: false
+  - name: 'Jack Sorrell - How to Play Wii Backups on Wii U'
+    url: 'https://www.youtube.com/watch?v=CbAlfx4Bh5g'
+    date: 2017-01-29
+    description: ''
+    piracy: false
+  - name: 'Jason Christopher - Select Alternate DOL for Wii Sports Resort'
+    url: 'https://www.youtube.com/watch?v=l8WF73depgE'
+    date: 2009.12.29
+    description: ''
+    piracy: false
+  - name: 'jeb3000 - Nintendont 2020 - Play GameCube Games From SD or USB on Wii'
+    url: 'https://www.youtube.com/watch?v=heuz_YmnyrM'
+    date: 2017-10-09
+    description: ''
+    piracy: false
+  - name: 'Lawnboyspost1975 - Rail Chase On Wii MAME (Using A Wiimote As The Light Gun)'
+    url: 'https://www.youtube.com/watch?v=FxRnz1Og_cM'
+    date: 2016-06-25
+    description: ''
+    piracy: false
+  - name: 'LostWorldGamer - How to Download and Play Wii Games for FREE! 2019 Update'
+    url: 'https://www.youtube.com/watch?v=0tbjKLvK6x4'
+    date: 2019-07-08
+    description: ''
+    piracy: false
+  - name: 'Mad Tech Gaming - Gamecube vs Wii (Nintendont) - Frame Rate Comparison - Enhanced Back Compat, Multiple'
+    url: 'https://www.youtube.com/watch?v=HPrejZ0J-2c'
+    date: 2020-03-16
+    description: ''
+    piracy: false
+  - name: 'marioscool1999 - HOW to custom themes on usb loader gx (easy way)'
+    url: 'https://www.youtube.com/watch?v=Zv5tF3Kww0A'
+    date: 2011-02-20
+    description: ''
+    piracy: false
+  - name: 'Matt Man - Mod A Nintendo Wii From Start To Finish 2019 - A Complete SoftMod Guide.'
+    url: 'https://www.youtube.com/watch?v=A9F3YqEhzg4'
+    date: 2019-01-31
+    description: ''
+    piracy: false
+  - name: 'McNutty - How To Install 20XX On Wii (Homebrew/Nintendont/20XX) ANY VERSION'
+    url: 'https://www.youtube.com/watch?v=EDCBLQQfxQs'
+    date: 2018-04-03
+    description: ''
+    piracy: false
+  - name: 'Michael MJD - Backup & Play Wii Games on a USB Drive! - USBLoader GX Tutorial'
+    url: 'https://www.youtube.com/watch?v=D66pyQLQCmg'
+    date: 2017-06-28
+    description: ''
+    piracy: false
+  - name: 'Michael MJD - Homebrew the Nintendo Wii WITHOUT an SD Card or the Internet Channel! (str2hax 2019 Tutorial)'
+    url: 'https://www.youtube.com/watch?v=Y3jq8dVe2ug'
+    date: 2019-06-03
+    description: ''
+    piracy: false
+  - name: 'Michael MJD - Install the Homebrew Channel on Nintendo Wii (2020 Tutorial)'
+    url: 'https://www.youtube.com/watch?v=ByabEgYHJ1c'
+    date: 2016-10-19
+    description: ''
+    piracy: false
+  - name: 'Mithilan01 - How to Put Wii Games on USB'
+    url: 'https://www.youtube.com/watch?v=Suobyf6yrQs'
+    date: 2017-07-19
+    description: ''
+    piracy: false
+  - name: 'Modern Vintage Gamer - The Nintendo Wii Shop is going offline forever. How to play WiiWare games in 2019'
+    url: 'https://www.youtube.com/watch?v=FHFuFuUFHag'
+    date: 2019-01-14
+    description: ''
+    piracy: false
+  - name: 'MrBean35000vr - EASIEST METHOD OF GETTING WIIMMFI!'
+    url: 'https://www.youtube.com/watch?v=3CBSQ9Afqiw'
+    date: 2018-12-21
+    description: ''
+    piracy: false
+  - name: 'OldsXCool - Failed to Launch when loading VC/Wiiware Games From SD Card On Modded Wii 4.3U FIX'
+    url: 'https://www.youtube.com/watch?v=x8_VgJHcNVI'
+    date: 2019-06-14
+    description: ''
+    piracy: false
+  - name: 'P3NCE - 2019 Wii Softmod Guide - Play Games From HDD'
+    url: 'https://www.youtube.com/watch?v=CAgPMJe03Co'
+    date: 2019-03-10
+    description: ''
+    piracy: false
+  - name: 'plasia - Full Walkthrough: Build a Project M 3.6 ISO'
+    url: 'https://www.youtube.com/watch?v=cf16j4yMYXk'
+    date: 2017-01-09
+    description: ''
+    piracy: false
+  - name: 'Project Phoenix Media - [How To] Fix Black Loading Screen With Wii Sports and USB Loader GX Tutorial'
+    url: 'https://www.youtube.com/watch?v=RyL8U7IbhXw'
+    date: 2013-01-17
+    description: ''
+    piracy: false
+  - name: 'RiiConnect24 - New Exploit for the Wii - str2hax!'
+    url: 'https://www.youtube.com/watch?v=6Fc22k98so0'
+    date: 2018-11-14
+    description: ''
+    piracy: false
+  - name: 'Ryan Beats - How to install custom skins in ssbb'
+    url: 'https://www.youtube.com/watch?v=QoU-jBEAwxw'
+    date: 2017-08-03
+    description: ''
+    piracy: false
+  - name: 'Space Chicken - Mario Kart Wii Glitches and Tricks!'
+    url: 'https://www.youtube.com/watch?v=rBNvVy7Pp2g'
+    date: 2017-01-21
+    description: ''
+    piracy: false
+  - name: 'Tech James - Fix Problems/Errors On USBLoaderGX & WiiFlow (Installing IOS WADs)'
+    url: 'https://www.youtube.com/watch?v=CKPNDMakfZc'
+    date: 2018-05-22
+    description: ''
+    piracy: false
+  - name: 'Tech James - How To Homebrew Any Nintendo Wii (Latest Version 4.3)'
+    url: 'https://www.youtube.com/watch?v=gsLdCm_2lsQ'
+    date: 2018-10-06
+    description: ''
+    piracy: false
+  - name: 'Tech James - How To Install Project M 3.6 For Wii (Super Smash Bros Mod) (USBLoaderGX)'
+    url: 'https://www.youtube.com/watch?v=kYKtly9a9bk'
+    date: 2017-07-09
+    description: ''
+    piracy: false
+  - name: 'Tech James - Play Wii Backup Games Using WiiFlow USB/SD/HDD (Easy Tutorial!)'
+    url: 'https://www.youtube.com/watch?v=mI2yS-QMTU4'
+    date: 2017-06-03
+    description: ''
+    piracy: false
+  - name: 'Tech James - Wii 4.3 Custom Firmware - d2x cIOS Install Guide!'
+    url: 'https://www.youtube.com/watch?v=uF14ygLF4zM'
+    date: 2019-06-19
+    description: ''
+    piracy: false
+  - name: 'Tech James - Wii USBLoaderGX Install & Setup Guide!'
+    url: 'https://www.youtube.com/watch?v=GjI2cOGNb8A'
+    date: 2018-11-26
+    description: ''
+    piracy: false
+  - name: 'Teo LSC - Como Instalar Levi Loader Para Wii'
+    url: 'https://www.youtube.com/watch?v=S_cHqsSgAfY'
+    date: 2016-01-04
+    description: ''
+    piracy: false
+  - name: 'TOMMY - *UPDATED* How To Fix USB Loader & MyMenuify On Wii'
+    url: 'https://www.youtube.com/watch?v=athlzOXf_5U'
+    date: 2020-01-01
+    description: ''
+    piracy: false
+  - name: 'TOMMY - How To Fix MyMenuify and USB Loader GX Black Screen'
+    url: 'https://www.youtube.com/watch?v=yra6t4BGpHE'
+    date: 2019-08-02
+    description: ''
+    piracy: false
+  - name: 'Toshi - [How to] Fix Full bricked Wii without NAND (Black Screen)'
+    url: 'https://www.youtube.com/watch?v=CmUEjEBJez0'
+    date: 2011-03-12
+    description: ''
+    piracy: false
+  - name: 'TWD98 - How To Get 200+ CUSTOM TRACKS in Mario Kart Wii (CTGP Install Tutorial)'
+    url: 'https://www.youtube.com/watch?v=-G0x9R1C3Uw'
+    date: 2018-06-25
+    description: ''
+    piracy: false
+  - name: 'Valclark Junior - Pack SD/USB V4.1 compatível com controle USB (n°128)'
+    url: 'https://www.youtube.com/watch?v=z0oik4XChDQ'
+    date: 2019-10-01
+    description: ''
+    piracy: false
+  - name: 'Voultar - Cheap USB3 HDMI Capture Card - OSSC Line 5X Test Genesis/SNES'
+    url: 'https://www.youtube.com/watch?v=R07RADJiv1g'
+    date: 2020-01-07
+    description: ''
+    piracy: false
+  - name: 'Wii & Wii U Modders - The Ultimate Softmod Guide For Your Nintendo Wii 2019'
+    url: 'https://www.youtube.com/watch?v=_cEouMU1qAE'
+    date: 2019-02-14
+    description: ''
+    piracy: false
+  - name: 'HackedExistence - Wii Softmod and Emulators for NES, SNES, N64, PSX, GameCube, Atari and GameBoy'
+    url: 'https://www.youtube.com/watch?v=Ltwr9Lt4X7M'
+    date: 2018-01-22
+    description: ''
+    piracy: false
+  - name: 'Wine Country Games - Install The Homebrew Channel the easy way with FlashHax'
+    url: 'https://www.youtube.com/watch?v=IYvIWrtXYvg'
+    date: 2018-10-25
+    description: ''
+    piracy: false
+  - name: 'YellowSuperNintendo - Using the Nintendo Wii in 2019'
+    url: 'https://www.youtube.com/watch?v=qssoJTjdvWA'
+    date: 2019-11-03
+    description: ''
+    piracy: false

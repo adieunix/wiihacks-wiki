@@ -52,6 +52,9 @@ repo_users:
   - name: 'TheShadowEevee - Github'
     url: 'https://github.com/TheShadowEevee'
     description: 'Sharpii-NetCore '
+  - name: 'waninkoko (Miguel Botón)'
+    url: 'https://github.com/waninkoko'
+    description: 'wad manager'
   - name: 'xflak'
     url: 'https://sourceforge.net/u/xflak/profile/'
     description: 'd2x-cios, diosmios, modmii, nusad'
@@ -75,5 +78,7 @@ youtube_channels:
   - name: 'Tech James'
     url: 'https://www.youtube.com/user/Squirtle555/'
     description: 'I upload clean and easy to follow homebrew tutorials.'
+
+
 
 

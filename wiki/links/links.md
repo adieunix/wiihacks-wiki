@@ -19,6 +19,8 @@ redirect_from: "/links/links.md"
 
   * [Games, Game Mods, and Game Related Sites](./game.md) -> Anything game related, game modding related, etc.
 
+  * [Guides](./guides.md) -> A lot of guides.
+
   * [Hardware](./hardware.md) -> Any links related to the Wii's hardware.
 
   * [Personality](./personality.md) -> Youtubers, bloggers, and individuals who contribute to the Wii and Wii modification scene.

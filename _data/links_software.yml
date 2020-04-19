@@ -76,9 +76,21 @@ loaders:
   - name: 'The Homebrew Channel - OSE - Github'
     url: 'https://github.com/fail0verflow/hbc'
     description: 'Open Source of HBC'
+  - name: 'sd-usb-loader: SD/USB Backup Loader for Wii - Github'
+    url: 'https://github.com/waninkoko/sd-usb-loader'
+    description: 'Backup loader for the Wii'
   - name: 'USBLoaderGX - SourceForge'
     url: 'https://sourceforge.net/projects/usbloadergx/'
     description: 'A Wii game launcher, most commonly used and most recently updated'
+  - name: 'wad-manager: WAD installer/uninstaller - Github'
+    url: 'https://github.com/waninkoko/wad-manager'
+    description: 'Old-school wad installer.'
+  - name: 'Wad Manager 1.7 - HacksDen'
+    url: 'http://www.hacksden.com/downloads.php?do=file&id=80'
+    description: 'Old-school wad installer.'
+  - name: 'WAD Manager v1.3 by Waninkoko - GBAtemp.net'
+    url: 'https://gbatemp.net/threads/wad-manager-v1-3-by-waninkoko.112211/'
+    description: 'Old-school wad installer.'
   - name: 'WiiFlow_Lite: My mod of the Wii USB Loader WiiFlow - Github'
     url: 'https://github.com/Fledge68/WiiFlow_Lite'
     description: 'Mod of WiiFlow'
@@ -198,3 +210,8 @@ utility:
   - name: 'wwpacker - GBAtemp'
     url: 'https://gbatemp.net/threads/wwpacker.95479/'
     description: 'This is a set of tools and scripts to ease the steps for unpacking and packing wad files'
+
+
+
+
+
