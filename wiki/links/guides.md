@@ -8,12 +8,12 @@ redirect_from: "/links/guides.md"
 
 {% for link in site.data.links_guides.web %}
 {% if link.piracy == false %}
-  * [{{ link.name }}]({{ link.url }})
+#### [{{ link.name }}]({{ link.url }})
 
-    Date: {{ link.date }}
+Date: {{ link.date }}
 {% if link.description != '' %}
 
-    - {{ link.description }}
+- {{ link.description }}
 {% endif %}
 {% endif %}
 {% endfor %}
@@ -22,12 +22,12 @@ redirect_from: "/links/guides.md"
 
 {% for link in site.data.links_guides.youtube %}
 {% if link.piracy == false %}
-  * [{{ link.name }}]({{ link.url }})
+#### [{{ link.name }}]({{ link.url }})
 
-    Date: {{ link.date }}
+Date: {{ link.date }}
 {% if link.description != '' %}
 
-    - {{ link.description }}
+- {{ link.description }}
 {% endif %}
 {% endif %}
 {% endfor %}
