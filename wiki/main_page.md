@@ -43,3 +43,5 @@ Here is a [link to our Discord](https://discord.gg/6fsXnTr)
 6. [Useful Links](./links/links.md)
    
    Extra links.
+
+<script data-ad-client="ca-pub-4278079994159351" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
