@@ -99,9 +99,19 @@ web:
     date: 2017-11-09
     description: ''
     piracy: false
+  - name: 'Everything you need to know about System Updates, softmods, and bricks - r/WiiHacks - u/WiiExpertise'
+    url: 'https://www.reddit.com/r/WiiHacks/comments/ggifma/everything_you_need_to_know_about_system_updates/'
+    date: 2020-05-13
+    description: ''
+    piracy: false
   - name: 'A proper guide to replace DIOS MIOS with Nintendont - r/WiiHacks - u/dudemo'
     url: 'https://www.reddit.com/r/WiiHacks/comments/666xld/a_proper_guide_to_replace_dios_mios_with/?utm_source=reddit&utm_medium=usertext&utm_name=WiiHacks&utm_content=t1_fmrzhee'
     date: 2017-04-19
+    description: ''
+    piracy: false
+  - name: 'All about the Wii's compatibility with USB - r/WiiHacks - u/WiiExpertise'
+    url: 'https://www.reddit.com/r/WiiHacks/comments/gisdq5/all_about_the_wiis_compatibility_with_usb/'
+    date: 2020-05-13
     description: ''
     piracy: false
   - name: 'USB Loader GX Freezes or Hangs at Initialize USB - A Solution - r/WiiHacks - u/MalcolmEggs'
@@ -109,9 +119,19 @@ web:
     date: 2015-03-14
     description: ''
     piracy: false
+  - name: 'HackMii Installer Frozen on Scam Screen, no IOS vulnerabilities found, upside down Homebrew Channel - everything you need to know, including the solution. - r/WiiHacks - u/WiiExpertise'
+    url: 'https://www.reddit.com/r/WiiHacks/comments/gcm94u/hackmii_installer_frozen_on_scam_screen_no_ios/'
+    date: 2020-05-03
+    description: ''
+    piracy: false 
   - name: 'USB Loader GX Troubleshooting Guide - r/WiiHacks - u/WiiExpertise'
     url: 'https://www.reddit.com/r/WiiHacks/comments/dnfb81/usb_loader_gx_troubleshooting_guide/'
     date: 2019-10-26
+    description: ''
+    piracy: false
+  - name: 'Basic RiiConnect24 Troubleshooting Guide - r/WiiHacks - u/WiiExpertise'
+    url: 'https://www.reddit.com/r/WiiHacks/comments/gqsui2/basic_riiconnect24_troubleshooting_guide/'
+    date: 2020-05-26
     description: ''
     piracy: false
   - name: 'How to install and play NTSC Virtual Console wads on PAL Wii - r/WiiHacks - u/u/wagamamalullaby'
