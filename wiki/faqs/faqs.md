@@ -98,7 +98,7 @@ redirect_from: "/faqs/faqs.md"
   
 ### Homebrew Browser
 
-  * If you're going to use it, please make sure you're using the newer repository [OSC](https://oscwii.org)
+  * If you're going to use it, please make sure you're using the newer repository, [OSC, which can be found here](https://oscwii.org).
   
   * Here at r/WiiHacks, we recommend that you install the software yourself as software like this doesn't have a track record for reliability, and eventually you'll probably want to know how to install it yourself.
 
