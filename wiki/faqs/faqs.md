@@ -98,9 +98,11 @@ redirect_from: "/faqs/faqs.md"
   
 ### Homebrew Browser
 
-  * Don't use it. There's no support for it.
+  * If you're going to use it, please make sure you're using the newer repository [OSC](https://oscwii.org)
   
-  * No? Don't ask for help on r/WiiHacks for it. We don't support it.
+  * Here at r/WiiHacks, we recommend that you install the software yourself as software like this doesn't have a track record for reliability, and eventually you'll probably want to know how to install it yourself.
+
+  * Lastly, if you do choose to use either, please take your issue(s) to the RC24 discord, or their recommended support path, as we will not provide support for it at r/WiiHacks due to the fact that we don't recommend it and it causes disruptive discussions in submissions that ask for help with it.
 
 ### How do I manage my virtual Wii game library?
 
