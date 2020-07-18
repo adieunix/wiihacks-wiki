@@ -49,8 +49,12 @@ redirect_from: "/rules/rules.md"
   * Continually violating a rule will get you banned.
 
   * All spambots will be banned permanently.
+  
+  * Users who have convinced the majority of the modstaff that they are a direct threat to the community for any reason will be one of the only times a Redditor is permanently banned from the subreddit.
 
   * [Reddit's policy on circumventing bans.](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/what-ban-evasion)
+  
+  * All bans, even permabans will be periodically evaluated. So no ban is truly permanent.
 
 # Questions?
 
